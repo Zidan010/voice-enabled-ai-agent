@@ -4,3 +4,7 @@ torch
 tqdm
 tiktoken
 pypdf2
+langchain-groq
+yfinance
+python-dotenv
+langchain
