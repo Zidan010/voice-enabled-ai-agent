@@ -1,0 +1,59 @@
+{
+  "total_documents": 5,
+  "total_chunks": 53,
+  "documents": {
+    "Artificial_Intelligence": {
+      "chunk_count": 22,
+      "total_tokens": 24535,
+      "avg_tokens": 1115.2272727272727,
+      "min_tokens": 5,
+      "max_tokens": 1206,
+      "chunks_with_headers": 22,
+      "chunks_with_lists": 1
+    },
+    "Cybersecurity": {
+      "chunk_count": 6,
+      "total_tokens": 6274,
+      "avg_tokens": 1045.6666666666667,
+      "min_tokens": 330,
+      "max_tokens": 1204,
+      "chunks_with_headers": 6,
+      "chunks_with_lists": 4
+    },
+    "Digital_Health": {
+      "chunk_count": 6,
+      "total_tokens": 3931,
+      "avg_tokens": 655.1666666666666,
+      "min_tokens": 337,
+      "max_tokens": 1021,
+      "chunks_with_headers": 6,
+      "chunks_with_lists": 4
+    },
+    "Human_Development": {
+      "chunk_count": 10,
+      "total_tokens": 11593,
+      "avg_tokens": 1159.3,
+      "min_tokens": 1048,
+      "max_tokens": 1204,
+      "chunks_with_headers": 10,
+      "chunks_with_lists": 1
+    },
+    "Renewable_Energy_Jobs": {
+      "chunk_count": 9,
+      "total_tokens": 6291,
+      "avg_tokens": 699.0,
+      "min_tokens": 518,
+      "max_tokens": 1086,
+      "chunks_with_headers": 9,
+      "chunks_with_lists": 0
+    }
+  },
+  "overall": {
+    "total_tokens": 52624,
+    "avg_tokens_per_chunk": 992.9056603773585,
+    "min_tokens": 5,
+    "max_tokens": 1206,
+    "target_chunk_size": 800,
+    "overlap_size": 100
+  }
+}

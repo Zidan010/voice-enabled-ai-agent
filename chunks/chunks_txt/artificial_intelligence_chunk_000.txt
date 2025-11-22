@@ -1,0 +1,8 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 5
+--------------------------------------------------------------------------------
+
+## Artificial Intelligence
+
+---

@@ -1,0 +1,21 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 735
+--------------------------------------------------------------------------------
+
+## Chapter
+
+351.7 THE FUTURE OF ENERGY TRANSITION JOBS
+While this annual review primarily focuses on the renewable energy sector itself, several
+closely intertwined solutions of escalating significance significantly contribute to the emergence of job opportunities or the dynamics of the employment market and its requirements. Among them, energy efficiency measures represent a pivotal facet. Further, the development of grid transmission and distribution networks will be crucial in unfolding the energy transition, as is true for flexibility innovations, energy storage and hydrogen technologies, among others.
+The shift towards sustainable energy sources fosters increased economic engagement
+and redirects financial endeavours from fossil fuels towards sectors involved in the energy transition. IRENA’s World Energy Transitions Outlook presents a 1.5°C-compatible trajectory that is consistent with the Paris Agreement on Climate Change. The macroeconometric modelling framework underlying IRENA’s 1.5°C pathway captures the effects of and feedback loops for different climate and energy transition policies, including their impacts on government revenue streams, spending, and distributional and social impacts. The 2022 edition of the Outlook indicated that if the world follows
+IRENA’s 1.5°C pathway, employment in the energy sector could grow to 139  million jobs by 2030, with renewables accounting for 38.2 million and other energy transition technologies for 74.2 million (IRENA, 2022b) .
+These numbers are derived from socio-economic modelling of IRENA’s 1.5°C scenario, which represents a complex set of investments and policies that can drive the needed change in the energy sector. However, IRENA’s work has consistently emphasised that the transition has socio-economic effects (GDP, employment, and social welfare) far beyond the energy sector, across the economy at large. These impacts are shaped by an array of policies, and it is critical that outcomes maximise benefits for people while minimising uncertainties and adjustment burdens. Some of the key policies include carbon pricing, fossil fuel subsidy reduction, higher government spending on social infrastructures, and international collaboration. The forthcoming volume 2 of World Energy Transitions Outlook 2023 , also explores the impacts of channeling revenues from wealth taxes towards social
+investments, and presents the impact of fair wages to workers in mineral mining industries in developing or emerging economies (IRENA 2023a, forthcoming).
+governments need to proactively establish robust policies to foster the widespread implementation and seamless integration of renewable technologies. Prioritising the cultivation of a skilled workforce remains imperative, alongside a growing emphasis on the calibre of these employment positions. Further, it is critical that policy makers conceive an overarching framework that encompasses a spectrum of measures, including industrial strategies, labour market policies, social safety nets and initiates for promoting diversity and inclusivity (see Section 4).
+Moreover, the landscape of labour is undergoing a paradigm shift as automation increases
+in the manufacturing sector. This transformation is recalibrating employment dynamics, reducing traditional workforce dependencies while simultaneously generating demand for the skill sets required to program and operate automated systems. While this transition might entail job displacements, the positions that emerge from it are anticipated to be of higher quality, demanding advanced skills. Ensuring low-income individuals' access to these roles should be a top priority.
+Meeting the human resource capacity challenge to fill these energy-transition-related
+roles requires a robust scaling up of education and training programmes. It also calls for strategic measures to cultivate an inclusive and gender-balanced transition workforce. By embracing these multi-faceted approaches, the energy transition can accelerate the move to a more equitable and empowered workforce.
+EDITIONth

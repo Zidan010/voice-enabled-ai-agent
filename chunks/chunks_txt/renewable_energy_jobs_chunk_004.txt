@@ -1,0 +1,25 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 566
+--------------------------------------------------------------------------------
+
+## Chapter
+
+27In the United States, 360 000 people were required for direct and indirect labour
+in biofuel feedstock and processing operations in 2022. In the 27 EU Member States, biofuel created an estimated 148 300 jobs in 2021 (up from 141 600 jobs in 2020)
+(EurObserv’ER, 2023). Total biofuels production in the European Union was relatively unchanged in 2022 (USDA-FAS, 2022e). Employment, therefore , may also be assumed
+to have remained at the 2021 level.
+Many countries have labour-intensive feedstock operations, with informal and seasonal
+employment in the agricultural supply chain. Brazil remains the world’s largest employer in liquid-biofuel-related operations (about 856 000 jobs), and is second only to the United States in biofuel production. Other countries estimated to have sizeable biofuel workforces include Indonesia (619 000), Colombia (186 700), Thailand (97 100),
+Malaysia (66 600) and the Philippines (44 900).
+1.5 OTHER TECHNOLOGIES
+As EDITIONthEDITIONth
+> **Box**
+Employment in heat pumps
+China, Japan, the United States and Europe are the major markets for heat pumps.
+Global heat pump sales grew 11% in 2022, driven by developments in Europe, where rising energy prices and supportive installation policies are driving up sales (REN21, 2023). Three million units were sold in Europe in 2022. This is 38% more than in 2021, double the sales volume in 2019 and three times as many sales as in 2016 (Rosenow and Gibb, 2023).
+Based on a survey of its members, the European Heat Pump Association estimates
+that in 2022, about 116 000 people were employed in this growing sector in European countries (see The largest number of European heat pump jobs are found in France, Italy and Germany,
+which together represent just over half of the European total (Nowak and Westring, 2023). A large portion of installations centres on European-made heat pumps. This creates local jobs, although recent demand growth has surpassed local manufacturing capacities and raised reliance on imports (EurObserv’ER, 2023). Companies announced plans for investments of more than EUR 5.5 billion in new European manufacturing factories (REN21, 2023).
+In China, the heat pump industry provided employment opportunities for a similar
+number of people as in Europe, some 118 000 in 2022 (CHPA, 2023). Based on a survey,

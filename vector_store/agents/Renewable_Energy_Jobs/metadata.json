@@ -1,0 +1,245 @@
+{
+  "agent_id": "Renewable_Energy_Jobs",
+  "agent_name": "Renewable Energy & Jobs Expert",
+  "agent_description": "Specializes in renewable energy technologies (solar, wind, hydropower), green jobs, energy employment, sustainability, and clean energy transitions.",
+  "source_document": "Renewable_Energy_Jobs.pdf",
+  "embedding_model": 768,
+  "embedding_dimension": 768,
+  "total_vectors": 9,
+  "chunks": [
+    {
+      "vector_id": 0,
+      "chunk_id": "renewable_energy_jobs_chunk_000",
+      "content": "## Renewable Energy Jobs\n\n---\n\n## Chapter\n\nhydropower and liquid biofuels. Other renewable energy technologies, included in ENERGY EMPLOYMENT\nBY TECHNOLOGY\n\n## Chapter\n\nJobs (thousands)Solar photovoltaic\nLiquid biofuels\nHydropower\nWind energy\nSolid biomass\nSolar heating/\ncooling\nBiogas\nHeat pumps\nGeothermal energy\nOthers\nCSP\nMunicipal and\nindustrial waste\nTide, wave and\nocean energy\nmillion jobs\nEDITIONthEDITIONth1.1 SOLAR PHOTOVOLTAIC\nYet another record was set in 2022 – with the addition of 191.4GW of solar PV capacity\nworldwide, up from 141.2GW in 2021. China accounted for 45% of these installations, or\n86GW, and was followed by the United States, India and Brazil. The Netherlands, Germany,\nJapan, Spain, Australia and the Republic of Korea rounded out the top ten (IRENA, 2023b).\nChina is home to the vast majority of global solar PV manufacturing, supported by\ncomprehensive industrial policies. The country retains a commanding position across the supply chain, from ingots and wafers to cells and modules. Southeast Asia has become an important, but much smaller, production and export hub, whereas the rest of the world has a marginal share in the supply chain.\nEurope’s PV imports surged during the first half of 2022 due to the Ukraine crisis and\nsubsequent efforts to reduce reliance on oil and gas imports. However, installation rates trailed due to shortages of inverters and skilled labour, which subsequently slowed imports during the second half of the year. India’s module imports declined significantly after the first quarter of 2022 once its basic customs duty took effect. In Brazil, a rush of installations was triggered by an impending law imposing a grid fee on small-scale distributed projects (Chen, 2023).\nAccording to the United States (US) Department of Energy (US DOE, 2022), 1GW of\nproduction capacity (for crystalline silicon [c-Si] modules, which account for about 90% of\nall manufactured modules) could generate anywhere from 1 085 jobs to 2 020 direct jobs across the full value chain.\nIRENA estimates global solar PV employment at 4.9  million in 2022, up from about 4.3  million\nin 2021. Of the ten leading countries shown in Americas and three are in Europe . Together, the top ten accounted for almost 4.1  million\njobs, or 85% of the global total. Asian countries host 73% of the world’s PV jobs, reflecting\nthe region’s continued dominance of manufacturing and strong presence in installations. The\nremaining jobs were in the Americas (11.5% of all jobs), Europe (11%; with European Union\n[EU] member states accounting for 10.6%) and the rest of the world (4.8%).",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 0,
+        "char_count": 2613,
+        "token_estimate": 629,
+        "word_count": 413,
+        "has_header": true,
+        "header_text": "Renewable Energy Jobs",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": null,
+        "next_chunk_id": "renewable_energy_jobs_chunk_001"
+      }
+    },
+    {
+      "vector_id": 1,
+      "chunk_id": "renewable_energy_jobs_chunk_001",
+      "content": "## Chapter\n\n19China accounted for about 56% of PV employment worldwide, or some 2.76  million jobs.\nEmployment in PV in the United States reached 264 000  jobs in 2022. PV employment\nin Europe was estimated at 540 000 in 2022 of which 517 000  jobs were in EU Member\nStates. India’s total solar jobs are estimated to be at 281 400. On-grid solar is estimated to\nhave generated 201 400 jobs, with another 80 600 in off-grid settings. Increasing solar PV\ninstallations in Brazil boosted employment in this industry to 241 000  jobs. Japan added\nless capacity in 2021 than the previous year. IRENA estimates its workforce at 127 000.\nWomen’s representation is higher in the workforce for solar PV than for other renewable\nenergy technologies (see\n> **Box**).\nIndia China\nUnited States2.8\n0Million jobs\nSpain JapanPoland\nViet Nam Australia Germany\nBrazil\nTop 10:\n85%\nof PV jobs56%\nof PV\njobsEDITIONthEDITIONth\n> **Box**\nSolar PV: A gender perspective\nIRENA’s socio-economic work seeks to close the information gap regarding gender\nin the renewable energy industry. In the most recent report in the series A Gender Perspective , IRENA assessed the challenges faced by women working in the solar\nphotovoltaic (PV) sector. The assessment considered both modern markets and energy access scenarios. The study, the third in the series, obtained primary data from individuals and organisations in the solar PV sector by means of a global online survey (IRENA, 2022a).\nThe analysis showed that women represent 40% of the full-time positions in the\nsolar PV sector, almost twice as much as in the wind or the oil and gas sectors (21% and 22%, respectively). The solar PV sector exceeds women’s average 32% share across the broader renewable energy sector but falls somewhat short of the share of women employed in the overall economy (see Women’s representation across solar PV job roles is uneven. They are most frequently hired for administrative\npositions, where their share reaches 58%. Meanwhile, women represented comparatively small shares, 32% of STEM (science, technology, engineering and mathematics) positions and 35% of non-STEM technical positions (such as lawyers or procurement experts) . Further, women hold 38% of other non-technical positions\n(e.g. marketing, sales, distribution, product assembly or installation). The better performance in this category is\nlargely due to off-grid solar, which has multiple positions and initiatives targeting women. This may also influence leadership composition, with women accounting for 30% of managerial jobs. However, women represent 17%\nof the total senior management roles in the solar PV industry.\nEffective actions are needed to ease women’s entry into the industry and improve their career prospects and\nprogression. Creating gender awareness is essential to fully understand the complexity of the barriers faced by",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 1,
+        "char_count": 2867,
+        "token_estimate": 636,
+        "word_count": 450,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": true,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_000",
+        "next_chunk_id": "renewable_energy_jobs_chunk_002"
+      }
+    },
+    {
+      "vector_id": 2,
+      "chunk_id": "renewable_energy_jobs_chunk_002",
+      "content": "## Chapter\n\n... in solar PV 40%Average women‘s share...45.9%\n... economy-wide22%\n... in oil and gas 21%\n... in wind energy0 10 20 30 40 50 70 60 Jobs (%)Women’s share in solar PV\nSenior management\nManagement\nSTEM\nOther\nnon-technical\nOther technical\nAdministration\n58%\n17%\n35%30%\n32%\n38%women. Further, national policies are needed to create safer spaces and better workplace practices, policies\nand regulations. Also, women need networks and systems to support training and mentorship to enable full utilisation of their talents.\nIRENA will continue to work for reducing barriers, fostering inclusivity and empowering women to actively\nparticipate and excel in the sector. Furthermore, IRENA is fully committed to mainstreaming gender considerations, integrating gender equality and equity into its policies, programmes and initiatives. Prioritising gender equality and promoting diversity in the renewable energy sector fosters a more equitable and sustainable future for all.\nmillion jobs\nEDITIONthEDITIONth1.2 WIND\nIn 2022, the wind energy sector installed 74.6GW of capacity, 19% below the previous\nyear’s and 33% slower than the record pace in 2020. Except for Sweden and France, new capacity additions in all leading countries were below that in the peak year. China retained the lead with close to half of global additions, far ahead of the United States, Brazil, the United Kingdom, Sweden, Türkiye, Germany, India, France and Spain (IRENA, 2023b).\nGlobal employment in onshore and offshore wind remained steady at 1.4 million jobs in\n2022. Wind employment was concentrated in a relatively small number of countries. China\nalone accounted for 48% of the global total, followed by Asia (representing 55%), Europe\n(representing 29%), the Americas (representing 16%) and Africa and Oceania (representing\n0.7%). The top ten countries shown in On average, installation of 1GW of onshore wind capacity could create 130 000  jobs\nin development, construction and installation over a five-year period and 12 000  jobs annually during the 25-year O&M phase (GWEC, 2022). Meanwhile, the greater complexity of components like foundations, substations, cables and installation vessels creates higher labour requirements for offshore wind farms than onshore installations.",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 2,
+        "char_count": 2267,
+        "token_estimate": 518,
+        "word_count": 338,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": true,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_001",
+        "next_chunk_id": "renewable_energy_jobs_chunk_003"
+      }
+    },
+    {
+      "vector_id": 3,
+      "chunk_id": "renewable_energy_jobs_chunk_003",
+      "content": "## Chapter\n\nChina\nGermanyBrazil\nDenmark\nUnited KingdomFranceSpain\nNetherlands\nUnited StatesIndia\n0Million jobs\nTop 10:\n88%\nof wind\njobs\n49%\nof wind jobs\nChina Brazil\nRussian FederationViet Nam\nUnited StatesNorway TürkiyeJapan\nCanadaIndia400 000\n0MW\n241.3 HYDROPOWER\nHydropower remains at the forefront of the renewable energy landscape, boasting a global\ncapacity surpassing 1 255GW as of 2022. This figure translates to an impressive 37% of the global total renewable energy capacity. Total installed hydropower capacity exceeds that of wind and solar PV, although annual additions are much smaller now – some 20.5GW in 2022. As shown in To assess job numbers in hydropower, IRENA uses an employment-factor approach\ncoupled with national-level data for select countries. Considering data revisions since the previous edition of the Annual Review, the latest report estimates that about 2.49  million individuals were directly employed in the sector in 2022, 2.3% more than\nin the previous year. Consistent with earlier findings, O&M represent two-thirds of the direct jobs, 30% of the jobs are related to construction and installation activities, and about 6% are in component manufacturing. The remaining fraction pertains to O&M services, which represent the smallest proportion of the workforce. China continues to dominate in hydropower employment with a 35% share of the global total. India (second to China with a 19% share), followed by Brazil, Viet Nam and Pakistan, are among the top five (see million jobs\nEDITIONth\n\n## Chapter\n\n25Rest of world 17.3%\nCanada 1.4%\nTürkiye 1.6%\nEthiopia 1.8%\nRussian\nFederation 1.9%\nColombia 2.3%\nUnitedStates2.7%\nPakistan 4.2%\nViet Nam 5.1%\nBrazil 7.8%China 35.3%\nIndia 18.8%\nBrazil\nColombia0.9\n0Million jobs\nIndonesiaThailandPolandMalaysiaChina\nPhilippinesIndia\nUnited States\nTop 10:\n94%\nof biofuels\njobs\n34%\nof biofuel jobs\n261.4 LIQUID BIOFUELS\nA total of 162 billion litres of liquid biofuels were produced globally in 2021 (returning to\n2019 levels after a decline in 2020, with bioethanol contributing 106 billion litres, biodiesel about 46 billion litres and hydrotreated vegetable oil [renewable diesel] adding close to 10 billion litres) (REN21, 2023).\nAccording to preliminary estimates by the US Department of Agriculture’s Foreign\nAgricultural Service (USDA-FAS), output among the world’s leading biofuel producers was up slightly in 2022. As in earlier years, the United States, Brazil and the European Union were the dominant ethanol producers. EU members led in biodiesel production, followed by Indonesia, Brazil and the United States.\nIRENA estimates worldwide biofuel employment in 2022 at 2.5 million, mostly in\nfeedstock operations. Latin America accounts for 42% of all biofuel jobs worldwide,\nwhile Asia (principally Southeast Asia) accounts for 37%. The more mechanised\nagricultural sectors of North America and Europe represent smaller employment\nshares (15% and 6%, respectively). The top ten countries together account for about 94% of global estimated employment (2.5\nmillion jobs\nEDITIONth",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 3,
+        "char_count": 3060,
+        "token_estimate": 771,
+        "word_count": 452,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_002",
+        "next_chunk_id": "renewable_energy_jobs_chunk_004"
+      }
+    },
+    {
+      "vector_id": 4,
+      "chunk_id": "renewable_energy_jobs_chunk_004",
+      "content": "## Chapter\n\n27In the United States, 360 000 people were required for direct and indirect labour\nin biofuel feedstock and processing operations in 2022. In the 27 EU Member States, biofuel created an estimated 148 300 jobs in 2021 (up from 141 600 jobs in 2020)\n(EurObserv’ER, 2023). Total biofuels production in the European Union was relatively unchanged in 2022 (USDA-FAS, 2022e). Employment, therefore , may also be assumed\nto have remained at the 2021 level.\nMany countries have labour-intensive feedstock operations, with informal and seasonal\nemployment in the agricultural supply chain. Brazil remains the world’s largest employer in liquid-biofuel-related operations (about 856 000 jobs), and is second only to the United States in biofuel production. Other countries estimated to have sizeable biofuel workforces include Indonesia (619 000), Colombia (186 700), Thailand (97 100),\nMalaysia (66 600) and the Philippines (44 900).\n1.5 OTHER TECHNOLOGIES\nAs EDITIONthEDITIONth\n> **Box**\nEmployment in heat pumps\nChina, Japan, the United States and Europe are the major markets for heat pumps.\nGlobal heat pump sales grew 11% in 2022, driven by developments in Europe, where rising energy prices and supportive installation policies are driving up sales (REN21, 2023). Three million units were sold in Europe in 2022. This is 38% more than in 2021, double the sales volume in 2019 and three times as many sales as in 2016 (Rosenow and Gibb, 2023).\nBased on a survey of its members, the European Heat Pump Association estimates\nthat in 2022, about 116 000 people were employed in this growing sector in European countries (see The largest number of European heat pump jobs are found in France, Italy and Germany,\nwhich together represent just over half of the European total (Nowak and Westring, 2023). A large portion of installations centres on European-made heat pumps. This creates local jobs, although recent demand growth has surpassed local manufacturing capacities and raised reliance on imports (EurObserv’ER, 2023). Companies announced plans for investments of more than EUR 5.5 billion in new European manufacturing factories (REN21, 2023).\nIn China, the heat pump industry provided employment opportunities for a similar\nnumber of people as in Europe, some 118 000 in 2022 (CHPA, 2023). Based on a survey,",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 4,
+        "char_count": 2321,
+        "token_estimate": 566,
+        "word_count": 365,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": true,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_003",
+        "next_chunk_id": "renewable_energy_jobs_chunk_005"
+      }
+    },
+    {
+      "vector_id": 5,
+      "chunk_id": "renewable_energy_jobs_chunk_005",
+      "content": "## Chapter\n\nFranceSweden30 000\n0Thousand jobs\nItaly\nPoland\nNetherlandsFinlandSpainNorwayDenmark\nSwitzerlandAustria\nUnited KingdomRest of EuropeGermany\n> **Box**\nEmployment in heat pumps this figure includes production, sales distribution, installation, and after-sales service. The numbers cover\nair-to-water heaters and water/ground-to-water heat pumps, but exclude air-to-air heat pumps, i.e. air\nconditioning. Some 28 000 people produced equipment and 20 000 people produced components. Sales and installation services, including sales, logistics, installation, and after-sales, provided employment opportunities for 71 000 people, about 60% of the total. The China Heat Pump Alliance forecasts that the heat pump industry could provide employment opportunities for 400 000 people by 2030 in China.\nIn the United States, the Energy and Employment Report estimates 6 465  jobs related to ground-source or\ngeothermal heat pumps in 2022. The figure for air-source heat pumps is much higher, at 64 641 (US DOE, 2023).\nFollowing the COVID-19–induced activity slump in 2020 (when just 340  megawatts\n[MW] were installed), the off-grid sector rebounded, adding 690MW of new capacity in 2021 and 1 400MW in 2022 (IRENA, 2023b). Among various emerging technologies, decentralised renewable energy has emerged as a viable solution to provide reliable and clean power to communities, especially in remote areas. Beyond the environmental benefits, this decentralised approach creates local jobs and excellent opportunities for promoting diversity. This section discusses job and livelihood implications for mini-grids (often based on solar PV), small-scale hydropower and clean cooking solutions.\n1.6.1 Mini-grids\nMini-grids will play an increasingly important role in closing existing gaps in energy access, especially in remote rural areas. In 2010, there were about 500  mini-grid installations in Sub-Saharan Africa. While the number has risen significantly, to over 3 000 installations at present, further acceleration is needed. According to one estimate, more than 160 000 mini-grids are required to address access needs (World Bank, 2023).\nKenya features prominently in the region, having deployed a significant share of Africa’s\nmini-grids. The International Labour Organization has undertaken an assessment of the\nemployment impacts of the EU-funded Green Mini-Grid (GMG) Facility Programme in Kenya, which consists of 33  sites, principally solar PV based. For a typical mini-grid, the study (Oyuma, Game and Lieuw-Kie-Song, 2023) assumes that the design and feasibility phase takes one month of work and the construction phase takes another month, engaging, respectively, 7 and 104 workers. This translates into 0.7 and 8.8 full-time equivalent (FTE) jobs, respectively, for a total of 9.5 FTE jobs, nearly all held by men. Most of the jobs are unskilled; almost half of the construction phase jobs pay an average daily wage of KES 500 (USD 4.69),\n5 compared with KES 1 600 (USD 15.025) for\nwiring work, and KES 2 700 (USD 25.355) for field engineers and household mappers, for example. For O&M, the study estimates an additional 2.8 FTE jobs. For the 33 sites under GMG, the study also estimated indirect and induced employment at 652 jobs (these are not necessarily FTE jobs) in agriculture, manufacturing and services. Women account for about 20% of the total.\nBased on average investment costs of EUR 195 275 per site and costs per connection of\nEUR 688, the study estimated that for every EUR 1 million invested, 58 FTE jobs could be created annually. Table 1 summarises key findings pertaining to direct jobs at present and direct jobs if future mini-grid targets are realised.\nEDITIONth5 Average exchange rate of USD 1 = KES 106.488 in 2020, when the study was conducted. It should be noted\nt hat the exchange value of the Kenyan shilling has declined significantly since then. By September 2023,\n1 USD equalled 146 KES.\nParameters FTE Jobs\nAverage mini-grid site Jobs in design and feasibility phase (temporary) 0.7\nJobs in construction and commissioning phase (temporary) 8.8\nJobs in operations and maintenance phase (permanent) 2.8\nTotal direct jobs (temporary plus permanent) 12.3\nFor 33 GMG sites aPermanent jobs 92\nTemporary Jobs 314\nTotal jobs (temporary plus permanent) 406\nFuture connection targets Estimated jobs created if 35 00\n0 households served b1 439\nEs timated jobs created if 1.1 million households served 45 1",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 5,
+        "char_count": 4438,
+        "token_estimate": 1086,
+        "word_count": 675,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": true,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_004",
+        "next_chunk_id": "renewable_energy_jobs_chunk_006"
+      }
+    },
+    {
+      "vector_id": 6,
+      "chunk_id": "renewable_energy_jobs_chunk_006",
+      "content": "## Chapter\n\n31Table 1 Direct jobs in Kenyan mini-grid development\nN\notes: a The number of sites that were developed under Phase 2 of the GMG programme.\nb It is estimated that 117 mini-grid sites are needed to meet this goal.\nFT\nE = full-time equivalent; GMG = Green Mini-Grid.\nRENEWABLE\nENERGY BENEFITS\nLEVERAGING LOCAL CAPACITY\nFOR SMALL-SCALE HYDROPOWER\nOperation & maintenance Manufacturing Feasibility Planning & procurement Construction & installation94%1%3%1%1%\n1% 1%2%1%\nperson-days9%3%\n12%\n87%\n77%7%\n500kW\n50kW5kW\nTOTAL 163780\nperson-days63920\nperson-days1.6.2 Small-scale hydropower\nSmall-scale hydropower systems offer numerous benefits for local communities and the environment. They not\nonly provide electricity but could also support irrigation services and connect communities to the central grid. They also make it possible to sell excess power, creating opportunities for additional income generation. In this way, they help transform local economies and generate inclusive growth by empowering rural women to participate in these activities. Further, community-based hydro mini-grids incentivise local communities to restore and maintain surrounding watersheds, contributing to environmental sustainability.\nThe implementation value chain of small-scale hydropower offers plenty of local job opportunities. Jobs can be\ncreated due to feasibility studies, planning and procurement, and equipment manufacturing, to installation and connection, O&M, and eventually, decommissioning.\nAccording to IRENA’s latest Leveraging local capacity analysis (IRENA, 2023c), a small-scale hydropower plant\nrequires substantial labour to implement. For instance, a pico hydro plant (averaging 5kW)\nrequires over 17 000  person-days, a micro hydro facility (50kW) requires approximately 64 000 person-days and a mini hydro system (500kW) requires more than 160 000 person-days.\n6 Among all value chain segments for a system, the majority of labour is needed for\nO&M work over the system’s lifetime. This O&M work accounts for 94%, 87% and 78% of total person-days for pico, micro and mini hydro, respectively (see EDITIONthmicro and mini hydro plants\n6 Person-days reflect the amount of work done by one person working full-time for one day.",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 6,
+        "char_count": 2240,
+        "token_estimate": 518,
+        "word_count": 319,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_005",
+        "next_chunk_id": "renewable_energy_jobs_chunk_007"
+      }
+    },
+    {
+      "vector_id": 7,
+      "chunk_id": "renewable_energy_jobs_chunk_007",
+      "content": "## Chapter\n\n33The above work mostly requires low to moderate technical skills (see in a country’s workforce or can be developed through certification programmes or vocational training centres.\nBy employing local talent, small-scale hydropower projects contribute to local capacity development and skill\nenhancement.\nConnecting renewable energy supply with income-generating activities, known as productive end uses, has\nthe potential to boost productivity, increase incomes, create local employment and catalyse rural economies. However, translating energy access into livelihood improvements requires investing in a social ecosystem that fosters technology solutions tailored to the specific needs of local communities. This investment should include financing, capacity and skill training, market access and cross-sector policy support to fully realise the benefits of decentralised renewable energy solutions.\nThe hardware required for small-scale hydropower can be manufactured locally. This creates opportunities for local skill building and fostering enterprise development. However, costly international standards often hinder local developers from competing for projects. Donor-funded international programmes must encourage the involvement of local experts instead of relying solely on foreign service providers. Full realisation of small-scale hydropower’s benefits and maximum domestic value creation require policies and measures to prioritise community capacity enhancement along the value chain and the promotion of social acceptance.\nAs the sector continues to grow, the demand for skilled workers in installation, maintenance, entrepreneurship\nand community engagement will increase. The expansion of the decentralised renewable energy job market has a positive multiplier effect, benefiting local economies, reducing poverty and fostering social development.\nNon-STEM Low and mid skills STEM Administrative93%2.4% 4%0.3% 0.3%\n4% 8%2%\n12% 7%\n88% 79%\n500kW\n50kW5kW\nAchieving universal access to clean cooking solutions is a pressing global challenge.\nTraditional cooking methods, such as open fires and inefficient stoves, not only contribute to indoor air pollution but also have severe health, environmental and socio-economic implications. Renewables-based clean cooking solutions, including bioethanol-based, biogas-based, electricity-driven and modern biomass-based solutions, present a significant opportunity to accelerate progress towards Sustainable Development Goal 7 and offer substantial job opportunities.\nStudies show that countries such as Kenya had about 700 FTE jobs in the bioethanol\nsector in 2019, while the biogas sector employed 800  people and the electric cooking sector employed 200 (Lee et al. , 2021). The potential for an increase in jobs numbers in\nthe clean cooking sector is substantial if renewable-based solutions were to replace liquid petroleum gas. Currently, the sector, including liquid petroleum gas, is estimated to provide approximately 19 000 direct, formal jobs. There is also potential for 15 000–35 000 direct but informal jobs. Viet Nam’s biogas programme deployed over 180 000 biodigesters between 2003 and 2020, creating 2 500 jobs in the construction and services sectors (SNV and EnDev, 2021). Training and skill development is a critical element of local job creation in the clean cooking sector, which involves manufacturers, installers and O&M providers, as well as smallholder farmers where feedstock is needed ( e.g. bioethanol supply chains)\n(IRENA, 2023d).\nLee et al. (2021) also showed that women’s involvement in the sector is limited, representing\nonly about 20% of the non-managerial workforce, due to the physically demanding nature\nof these jobs. However, there are more women managers in the clean cooking sector. For biogas-based solutions, about one-third of managers are women, a share that rises to one-half for bioethanol-based and electricity-powered cooking solutions. According to the study, companies typically express a strong desire to involve women in managerial roles and in the research and development of products. The clean cooking sector thus presents a unique opportunity to bridge both the skill and gender gap (Lee et al. , 2021).\nEDITIONth",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 7,
+        "char_count": 4239,
+        "token_estimate": 832,
+        "word_count": 595,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_006",
+        "next_chunk_id": "renewable_energy_jobs_chunk_008"
+      }
+    },
+    {
+      "vector_id": 8,
+      "chunk_id": "renewable_energy_jobs_chunk_008",
+      "content": "## Chapter\n\n351.7 THE FUTURE OF ENERGY TRANSITION JOBS\nWhile this annual review primarily focuses on the renewable energy sector itself, several\nclosely intertwined solutions of escalating significance significantly contribute to the emergence of job opportunities or the dynamics of the employment market and its requirements. Among them, energy efficiency measures represent a pivotal facet. Further, the development of grid transmission and distribution networks will be crucial in unfolding the energy transition, as is true for flexibility innovations, energy storage and hydrogen technologies, among others.\nThe shift towards sustainable energy sources fosters increased economic engagement\nand redirects financial endeavours from fossil fuels towards sectors involved in the energy transition. IRENA’s World Energy Transitions Outlook presents a 1.5°C-compatible trajectory that is consistent with the Paris Agreement on Climate Change. The macroeconometric modelling framework underlying IRENA’s 1.5°C pathway captures the effects of and feedback loops for different climate and energy transition policies, including their impacts on government revenue streams, spending, and distributional and social impacts. The 2022 edition of the Outlook indicated that if the world follows\nIRENA’s 1.5°C pathway, employment in the energy sector could grow to 139  million jobs by 2030, with renewables accounting for 38.2 million and other energy transition technologies for 74.2 million (IRENA, 2022b) .\nThese numbers are derived from socio-economic modelling of IRENA’s 1.5°C scenario, which represents a complex set of investments and policies that can drive the needed change in the energy sector. However, IRENA’s work has consistently emphasised that the transition has socio-economic effects (GDP, employment, and social welfare) far beyond the energy sector, across the economy at large. These impacts are shaped by an array of policies, and it is critical that outcomes maximise benefits for people while minimising uncertainties and adjustment burdens. Some of the key policies include carbon pricing, fossil fuel subsidy reduction, higher government spending on social infrastructures, and international collaboration. The forthcoming volume 2 of World Energy Transitions Outlook 2023 , also explores the impacts of channeling revenues from wealth taxes towards social\ninvestments, and presents the impact of fair wages to workers in mineral mining industries in developing or emerging economies (IRENA 2023a, forthcoming).\ngovernments need to proactively establish robust policies to foster the widespread implementation and seamless integration of renewable technologies. Prioritising the cultivation of a skilled workforce remains imperative, alongside a growing emphasis on the calibre of these employment positions. Further, it is critical that policy makers conceive an overarching framework that encompasses a spectrum of measures, including industrial strategies, labour market policies, social safety nets and initiates for promoting diversity and inclusivity (see Section 4).\nMoreover, the landscape of labour is undergoing a paradigm shift as automation increases\nin the manufacturing sector. This transformation is recalibrating employment dynamics, reducing traditional workforce dependencies while simultaneously generating demand for the skill sets required to program and operate automated systems. While this transition might entail job displacements, the positions that emerge from it are anticipated to be of higher quality, demanding advanced skills. Ensuring low-income individuals' access to these roles should be a top priority.\nMeeting the human resource capacity challenge to fill these energy-transition-related\nroles requires a robust scaling up of education and training programmes. It also calls for strategic measures to cultivate an inclusive and gender-balanced transition workforce. By embracing these multi-faceted approaches, the energy transition can accelerate the move to a more equitable and empowered workforce.\nEDITIONth",
+      "section_path": [
+        "Chapter"
+      ],
+      "metadata": {
+        "chunk_index": 8,
+        "char_count": 4069,
+        "token_estimate": 735,
+        "word_count": 562,
+        "has_header": true,
+        "header_text": "Chapter",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 9,
+        "prev_chunk_id": "renewable_energy_jobs_chunk_007",
+        "next_chunk_id": null
+      }
+    }
+  ]
+}

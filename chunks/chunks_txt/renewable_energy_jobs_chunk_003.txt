@@ -1,0 +1,70 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 771
+--------------------------------------------------------------------------------
+
+## Chapter
+
+China
+GermanyBrazil
+Denmark
+United KingdomFranceSpain
+Netherlands
+United StatesIndia
+0Million jobs
+Top 10:
+88%
+of wind
+jobs
+49%
+of wind jobs
+China Brazil
+Russian FederationViet Nam
+United StatesNorway TürkiyeJapan
+CanadaIndia400 000
+0MW
+241.3 HYDROPOWER
+Hydropower remains at the forefront of the renewable energy landscape, boasting a global
+capacity surpassing 1 255GW as of 2022. This figure translates to an impressive 37% of the global total renewable energy capacity. Total installed hydropower capacity exceeds that of wind and solar PV, although annual additions are much smaller now – some 20.5GW in 2022. As shown in To assess job numbers in hydropower, IRENA uses an employment-factor approach
+coupled with national-level data for select countries. Considering data revisions since the previous edition of the Annual Review, the latest report estimates that about 2.49  million individuals were directly employed in the sector in 2022, 2.3% more than
+in the previous year. Consistent with earlier findings, O&M represent two-thirds of the direct jobs, 30% of the jobs are related to construction and installation activities, and about 6% are in component manufacturing. The remaining fraction pertains to O&M services, which represent the smallest proportion of the workforce. China continues to dominate in hydropower employment with a 35% share of the global total. India (second to China with a 19% share), followed by Brazil, Viet Nam and Pakistan, are among the top five (see million jobs
+EDITIONth
+
+## Chapter
+
+25Rest of world 17.3%
+Canada 1.4%
+Türkiye 1.6%
+Ethiopia 1.8%
+Russian
+Federation 1.9%
+Colombia 2.3%
+UnitedStates2.7%
+Pakistan 4.2%
+Viet Nam 5.1%
+Brazil 7.8%China 35.3%
+India 18.8%
+Brazil
+Colombia0.9
+0Million jobs
+IndonesiaThailandPolandMalaysiaChina
+PhilippinesIndia
+United States
+Top 10:
+94%
+of biofuels
+jobs
+34%
+of biofuel jobs
+261.4 LIQUID BIOFUELS
+A total of 162 billion litres of liquid biofuels were produced globally in 2021 (returning to
+2019 levels after a decline in 2020, with bioethanol contributing 106 billion litres, biodiesel about 46 billion litres and hydrotreated vegetable oil [renewable diesel] adding close to 10 billion litres) (REN21, 2023).
+According to preliminary estimates by the US Department of Agriculture’s Foreign
+Agricultural Service (USDA-FAS), output among the world’s leading biofuel producers was up slightly in 2022. As in earlier years, the United States, Brazil and the European Union were the dominant ethanol producers. EU members led in biodiesel production, followed by Indonesia, Brazil and the United States.
+IRENA estimates worldwide biofuel employment in 2022 at 2.5 million, mostly in
+feedstock operations. Latin America accounts for 42% of all biofuel jobs worldwide,
+while Asia (principally Southeast Asia) accounts for 37%. The more mechanised
+agricultural sectors of North America and Europe represent smaller employment
+shares (15% and 6%, respectively). The top ten countries together account for about 94% of global estimated employment (2.5
+million jobs
+EDITIONth

@@ -1,0 +1,115 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1128
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+The availability of large-scale data has also made transportation an ideal domain
+for machine learning applications.
+
+Since 2006, applications such as Mapquest, Google
+Maps, and Bing Maps have been widely used by the public for routing trips, using public
+transportation, receiving real-time information and predictions about traffic conditions, 50 and finding services around a location.51 Optimal search algorithms have been
+applied to the routing of vehicles and pedestrians to a given destination (i.e.,53 54).
+
+Despite these advances, the widespread application of sensing and optimization
+techniques to city infrastructure has been slower than the application of these
+techniques to individual vehicles or people.
+
+Although individual cities have
+implemented sensing and optimization applications, as yet there is no standardization
+of the sensing infrastructure and AI techniques used.
+
+Infrastructure costs, differing
+priorities among cities, and the high coordination costs among the parties involved
+have slowed adoption, as have public concerns over privacy related to sensing.
+
+Still, Kitae Jang, Koohong Chung, and Hwasoo Yeo, “ A Dynamic Pricing Strategy for High
+Occupancy Toll Lanes,” Transportation Research Part A: Policy and Practice: 69–80.
+
+“Seattle Variable Tolling Study ,” City of Seattle Department of Transportation, May 2009,
+Study%20report%20revised%206.25.10.pdf .
+
+James F .
+
+Peltz, “Dynamic Pricing Is Catching On in the Public and Private Sectors,”
+Government Technology , March 21, 2016, finance/Dynamic-Pricing-Is-Catching-On-in-the-Public-and-Private-Sectors.html .
+
+Arthur G Sims and Kenneth W .
+
+Dobinson.
+
+“The Sydney Coordinated Adaptive Traffic:
+130–137.
+
+“New York City Launches Nation’s Most Sophisticated Active Traffic Management System
+Powered by TransCore’s TransSuite Traffic Management Software and RFID Technology ,”
+Business Wire , September 27, 2009, home/20110927005530/en/York-City-Launches-Nation%E2%80%99s-Sophisticated-Active-Traffic .
+
+Eric Horvitz, Johnson Apacible, Raman Sarin, and Lin Liao, “Prediction, Expectation, and
+Surprise: Methods, Designs, and Study of a Deployed Traffic Forecasting Service,” Proceedings of the
+Twenty-First Conference on Uncertainty and Artificial Intelligence (Arlington, Virginia: AUAI Press,
+July 2005), 275–283.
+
+Timothy Hunter, Ryan Herring, Pieter Abbeel, and Alexandre Bayen, “Path and Travel Time
+Inference from GPS Probe Vehicle Data,” NIPS Analyzing Networks and Learning with Graphs , no.
+
+John Krumm and Eric Horvitz, “Predestination: Inferring Destinations from Partial
+Trajectories,” UbiComp 2006: Ubiquitous Computing, Proceedings of the 8th International Conference ,
+September 2006,, 243–260.
+
+Jill Duffy , “Get Organized: Using Location-Based Reminders,” PC Magazine , June 30, 2014,
+for Real-time Route Planning,” IEEE Transactions on Aerospace and Electronic Systems , no.:
+869–878.
+
+Matt Duckham and Lars Kulik, “Simplest” Paths: Automated Route Selection for
+Navigation,” Spatial Information Theory .
+
+Foundations of Geographic Information Science,
+Proceedings of the International Conference, COSIT 2003, September (Springer-Verlag
+Berlin Heidelberg, 2003), 169-185.Ethical questions arise
+when programming cars to
+act in situations in which
+human injury or death is
+inevitable, especially when
+there are split-second
+choices to be made about
+whom to put at risk.
+
+23AI is likely to have an increasing impact on city infrastructure.
+
+Accurate predictive
+models of individuals’ movements, their preferences, and their goals are likely to
+emerge with the greater availability of data.
+
+The ethical issues regarding such an
+emergence are discussed in Section III of this report.
+
+The United States Department of Transportation released a call for proposals in asking medium-size cities to imagine smart city infrastructure for transportation.55
+This initiative plans to award forty million dollars to a city to demonstrate how
+technology and data can be used to reimagine the movement of people as well as goods.
+
+One vision is a network of connected vehicles that can reach a high level of safety
+in driving with car-to-car communication.56 If this vision becomes reality , we expect
+advances in multi-agent coordination, collaboration, and planning will have a
+significant impact on future cars and play a role in making the transportation system
+more reliable and efficient.
+
+Robots are also likely to take part in transportation by
+carrying individuals and packages (c.f., Segway robot).
+
+For transportation of goods,
+interest in drones has increased, and Amazon is currently testing a delivery system using
+them,57 although questions remain about the appropriate safety rules and regulations.
+
+The increased sensing capabilities, adoption of drones, and the connected
+transportation infrastructure will also raise concerns about the privacy of individuals
+and the safety of private data.
+
+In coming years, these and related transportation issues
+will need to be addressed either by preemptive action on the part of industry or within
+the legal framework.
+
+As noted in the Section III policy discussion, how well this is done
+will affect the pace and scope of AI-related advances in the transportation sector.

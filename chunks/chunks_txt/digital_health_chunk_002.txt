@@ -1,0 +1,77 @@
+Document: Digital_Health
+Section: Strategic Objectives > 22To strengthen health systems by introducing digital technologies,
+Tokens: 726
+--------------------------------------------------------------------------------
+
+## Strategic Objectives
+
+The four strategic objectives are intended to provide guidance and
+coordination on global digital health transformation and to strengthen
+synergies between initiatives and stakeholders to improve health
+outcomes and mitigate associated risks at all levels.
+
+## Collaboration and knowledge transfer
+
+20Policy options and actions
+The following policy options and actions are proposed:
+- co-create the global strategy on digital health and establish
+mechanisms for strengthening national digital health strategies
+and implementing key collaborations on agreed-upon
+appropriate use of digital technologies to achieve national health
+and well-being goals;
+- establish a knowledge management approach to identify and
+share good practices, knowledge about implementation of new
+methods and techniques, evidence and lessons learned on digital
+health across countries and international communities;
+- support countries in establishing information centres for disease
+surveillance to manage and implement timely decisions during
+epidemics and other public health emergencies;
+- align countries and stakeholders to address collectively global,
+regional and national challenges and opportunities; identify,
+manage and communicate risks; and mitigate threats associated
+with the use of digital technologies to improve health and
+enable universal health coverage, the core of the health- related
+Sustainable Development Goals.
+Outputs
+The following outputs are envisaged:
+- digital health is prioritized and integrated into health systems at
+global, regional and national levels through dedicated bodies
+and mechanisms for governance;
+- multistakeholder groups are convened on a regular
+basis to support the appropriate use and scaling up of digital
+health and innovation in order to accelerate progress towards the
+health-related Sustainable Development Goals; and implementation of tools are required for their adoption and
+integration into existing systems and services at the national level.
+- information centres for disease surveillance are established or
+strengthened at national, regional and global levels.
+Advance the implementation of national digital health
+strategies
+Strategic objective 2 aims to stimulate and support every country to
+own, adapt and strengthen its strategy on digital health in a way that
+best suits its vision, national context, health situation and trends,
+available resources and core values.
+Strategic objective 2 encourages the development of a national
+strategy on digital health through an all- inclusive multistakeholder
+approach including actors collaborating within communities of
+practice and with consideration to the following core components:
+(1) leadership and governance; (2) investment and operations;
+(3) services and applications for scaling up (4) integration and
+sustainability, while (5) standards and interoperability are respected;
+(6) a flexible digital infrastructure; (7) an adaptable health workforce
+and (8) legislation, ethics policies and compliance; and (9) a peoplecentred approach. These should all be developed while the necessary
+alignment of country stakeholders is ensured in order that the needs
+and expectations with given resources be met.
+The strategic objective aims to develop cross-sectoral partnerships
+at national level to align resources and investments to ensure the
+sustainability and growth of digital health. The objective also seeks to
+work with existing digital health partnerships to advance global digital
+health efforts. Developing national partnerships for the sustainability
+of digital health advances would accelerate their adoption by
+Member States.
+Although each country is expected to review or develop and own its
+strategy from inception to implementation, this strategic objective
+aims to build human and institutional capacity for the safe and
+appropriate use and scale-up of digital health by strengthening the
+commitment and systematic engagement of all stakeholders in
+every country. The objective underpins the promotion of innovative
+integration of digital technologies into health systems.Digital strategy implementation

@@ -1,0 +1,156 @@
+Document: Cybersecurity
+Section: Cybersecurity
+Tokens: 1189
+--------------------------------------------------------------------------------
+
+## Cybersecurity
+
+- GOVERN — The organization’s cybersecurity risk management strategy,
+expectations, and policy are established, communicated, and monitored.
+
+The GOVERN
+Function provides outcomes to inform what an organization may do to achieve and
+prioritize the outcomes of the other five Functions in the context of its mission and
+stakeholder expectations .
+
+Governance activities are critical for incorporating
+cybersecurity into an organization’s broader enterprise risk management
+strategy.
+
+GOVERN addres ses an understanding of organizational context ; the
+establishment of cybersecurity strategy and cybersecurity supply chain risk
+management; roles, responsibilities, and authorities; polic y; and the oversight of
+cybersecurity strategy .
+
+- IDENTIFY — The organization’s current cybersecurity risk s are understood.
+
+Understanding the organization’s assets ( e.g., data, hardware , software, systems,
+facilities, services, people) , suppliers, and related cybersecurity risks enables an
+organization to prioritize its efforts consistent with its risk management strategy and the
+mission needs identified under GOVERN .
+
+This Function also includes the identification of
+NIST CSWP 29 February 26, 2024
+4 improvement opportunities for the organization’s policies, plans, processes, procedures ,
+and practices that support cybersecurity risk management to inform efforts under all six
+Functions .
+
+- PROTECT — Safeguards to manage the organization’s cybersecurity risk s are used.
+
+Once assets and risks are identified and prioritized , PROTECT supports the ability to
+secure those assets to prevent or lower the likelihood and impact of adverse
+cybersecurity events , as well as to increase the likelihood and impact of taking
+advantage of opportunities .
+
+Outcomes covered by this Function include identity
+management, authentication, and access control; awareness and training; data security;
+platform security (i.e., securing the hardware, software, and services of physical and
+virtual platforms ); and the resilience of technology infrastructure.
+
+- DETECT — Possible cybersecurity attacks and compromises are found and analyzed.
+
+DETECT enables the timely discovery and analysis of anomalies, indicators of
+compromise, and other potentially adverse events that may indicate that cybersecurity
+attacks and incidents are occurring .
+
+This Function supports success ful incident response
+and recovery activities .
+
+- RESPOND — Action s regarding a detected cybersecurity inciden t are taken.
+
+RESPOND
+supports the ability to contain the effects of cybersecurity incidents.
+
+Outcomes within
+this Function cover incident management, analysis, mitigation, reporting , and
+communication.
+
+- RECOVER — Assets and operations affected by a cybersecurity incident are restored .
+
+RECOVER supports the timely restoration of normal operations to reduce the effects of
+cybersecurity incidents and enable appropriate communication during recovery efforts .
+
+For example, an organization will categorize assets under I DENTIFY and take steps to secure
+those assets under P ROTECT .
+
+Investments in planning and testing in the G OVERN and IDENTIFY
+Functions will support timely detection of unexpected events in the D ETECT Function, as well as
+enabling incident response and recovery action s for cybersecurity incidents in the RESPOND and
+RECOVER Functions.
+
+GOVERN is in the center of the wheel because it informs how an organization
+will implement the other five Functions.
+
+While many cybersecurity risk management activities focus on pre venting negative events
+from occurring , they may also support taking advantage of positive opportunities .
+
+Actions to
+reduce cybersecurity risk might benefit an organization in other ways, like increasing
+revenue (e.g., first offering excess facility space to a commercial hosting provider for hosting
+their own and other organizations’ data centers, then moving a major financial system from
+the organization’s in -house data center to the hosting provider to reduce cybersecurity
+risks).
+
+NIST CSWP 29 February 26, 2024
+The Functions should be addressed concurrently.
+
+Actions that support GOVERN , IDENTIFY , PROTECT ,
+and DETECT should all happen continuously, and actions that support RESPOND and RECOVER
+should be ready at all times and happen when cybersecurity incidents occur.
+
+All Functions have
+vital roles related to cybersecurity incidents .
+
+GOVERN , IDENTIFY , and PROTECT outcomes help
+prevent and prepare for incidents, while G OVERN , DETECT , RESPOND , and RECOVER outcomes help
+discover and manage incidents.
+
+Each Function is named after a verb that summarizes its contents .
+
+Each Function is divided into
+Categories , which are related cybersecurity outcomes that collectively comprise the Function .
+
+Subcategories further divide each Category into more specific outcomes of technical and
+management activities.
+
+The Subcategories are not exhaustive, but they describe detailed
+outcomes that support each Category.
+
+The Functions, Categories, and Subcategories appl y to al l ICT used by an organization, including
+information technology, the Internet of Things (IoT), and operational technology.
+
+They
+also apply to all types of technology environments, including cloud, mobile, and artificial
+intelligence systems.
+
+The CSF Core is forward -looking and intended to apply to future changes
+in technologies and environments.
+
+NIST CSWP 29 February 26, 2024
+6 3.
+
+Introduction to CSF Profiles and Tiers
+This section defines the concepts of CSF Profiles and Tiers.
+
+3.1.
+
+CSF Profiles
+A CSF Organizational Profile describ es an organization’s current and/ or target cybersecurity
+posture in terms of the Core’s outcomes .
+
+Organizational Profiles are used to understand, tailor,
+assess, prioritize, and communicate the Core ’s outcomes by considering an organization’s
+mission objectives, stakeholder expectations, threat landscape, and requirements .
+
+An
+organization can then prioritize its actions to achieve specific outcomes and communicate that
+information to stakeholders.
+
+Every Organizational Profile includes one or both of the following :
+1.
+
+A Cur rent Profile specifies the Core outcomes that an organization is currently achieving
+(or attempting to achieve) and characterizes how or to what extent each outcome is
+being achieved.
+
+2.

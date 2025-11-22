@@ -1,0 +1,146 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1133
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+The final push came
+through a long-running project at IBM, which culminated with the Deep Blue
+program beating Garry Kasparov, then the world chess champion, by a score of
+3.5-2.5 in 1997.
+
+Curiously , no sooner had AI caught up with its elusive target than
+Deep Blue was portrayed as a collection of “brute force methods” that wasn’t “real
+intelligence.”8 In fact, IBM’s subsequent publication about Deep Blue, which gives
+extensive details about its search and evaluation procedures, doesn’t mention the
+word “intelligent” even once!9 Was Deep Blue intelligent or not?
+
+Once again, the
+frontier had moved.
+
+An operational definition
+AI can also be defined by what AI researchers do.
+
+This report views AI
+primarily as a branch of computer science that studies the properties of
+intelligence by synthesizing intelligence.10 Though the advent of AI has depended
+on the rapid progress of hardware computing resources, the focus here on
+software reflects a trend in the AI community .
+
+More recently , though, progress in
+building hardware tailored for neural-network-based computing11 has created a Nilsson, The Quest for Artificial Intelligence .
+
+Nilsson, The Quest for Artificial Intelligence , 89.
+
+McCorduck, Machines Who Think , 433.
+
+Murray Campbell, A.
+
+Joseph Hoane Jr., and Feng-hsiung Hsu, “Deep Blue,” Artificial
+Intelligence 134, nos.
+
+and: 57–83.
+
+Herbert A.
+
+Simon, “ Artificial Intelligence: An Empirical Science,” Artificial Intelligence 77, no.:95–127.
+
+Paul Merolla John V .
+
+Arthur, Rodrigo Alvarez-Icaza, Andrew S.
+
+Cassidy , Jun Sawada, Filipp
+Akopyan, Bryan L.
+
+Jackson, Nabil Imam, Chen Guo, Yutaka Nakamura, Bernard Brezzo, Ivan Vo,
+Steven K.
+
+Esser, Rathinakumar Appuswamy , Brian Taba, Arnon Amir, Myron D.
+
+Flickner, William
+P .
+
+Risk, Rajit Manohar, and Dharmendra S.
+
+Modha, “ A Million Spiking-Neuron Integrated
+Circuit with a Scalable Communication Network and Interface,” paulmerolla.com/merolla_main_som.pdf .Intelligence lies on a
+multi-dimensional
+spectrum.
+
+According to
+this view, the difference
+between an arithmetic
+calculator and a human
+brain is not one of kind,
+but of scale, speed,
+degree of autonomy, and
+generality.
+
+14tighter coupling between hardware and software in advancing AI.
+
+“Intelligence” remains a complex phenomenon whose varied aspects have attracted
+the attention of several different fields of study , including psychology , economics,
+neuroscience, biology , engineering, statistics, and linguistics.
+
+Naturally , the field of AI has
+benefited from the progress made by all of these allied fields.
+
+For example, the artificial
+neural network, which has been at the heart of several AI-based solutions12 was
+originally inspired by thoughts about the flow of information in biological neurons.14
+AI RESEARCH TRENDS
+Until the turn of the millennium, AI’s appeal lay largely in its promise to deliver, but
+in the last fifteen years, much of that promise has been redeemed.15 AI technologies
+already pervade our lives.
+
+As they becomes a central force in society , the field is
+shifting from simply building systems that are intelligent to building intelligent systems
+that are human-aware and trustworthy .
+
+Several factors have fueled the AI revolution.
+
+Foremost among them is the
+maturing of machine learning, supported in part by cloud computing resources
+and wide-spread, web-based data gathering.
+
+Machine learning has been propelled
+dramatically forward by “deep learning,” a form of adaptive artificial neural
+networks trained using a method called backpropagation.16 This leap in the
+performance of information processing algorithms has been accompanied by
+significant progress in hardware technology for basic operations such as sensing,
+perception, and object recognition.
+
+New platforms and markets for data-driven
+products, and the economic incentives to find new products and markets, have also
+contributed to the advent of AI-driven technology .
+
+All these trends drive the “hot” areas of research described below.
+
+This compilation
+is meant simply to reflect the areas that, by one metric or another, currently receive
+greater attention than others.
+
+They are not necessarily more important or valuable
+than other ones.
+
+Indeed, some of the currently “hot” areas were less popular in past
+years, and it is likely that other areas will similarly re-emerge in the future.
+
+Large-scale machine learning
+Many of the basic problems in machine learning (such as supervised and
+unsupervised learning) are well-understood.
+
+A major focus of current efforts is to
+scale existing algorithms to work with extremely large data sets.
+
+For example, whereas
+traditional methods could afford to make several passes over the data set, modern
+ones are designed to make only a single pass; in some cases, only sublinear methods
+(those that only look at a fraction of the data) can be admitted.
+
+Deep learning
+The ability to successfully train convolutional neural networks has most benefited the
+field of computer vision, with applications such as object recognition, video Gerald Tesauro, “Practical Issues in Temporal Difference Learning,” Machine Learning , no.: 257–77.
+
+David Silver, Aja Huang, Chris J.

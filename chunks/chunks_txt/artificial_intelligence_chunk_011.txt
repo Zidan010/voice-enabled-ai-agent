@@ -1,0 +1,158 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1204
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+With automated assistance, the physician could
+instead supervise this process, applying her or his experience and intuition to guide the
+input process and to evaluate the output of the machine intelligence.
+
+The literal
+“hands-on” experience of the physician will remain critical.
+
+A significant challenge is to
+optimally integrate the human dimensions of care with automated reasoning processes.
+
+To achieve future advances, clinicians must be involved and engaged at the outset to
+ensure that systems are well-engineered and trusted.
+
+Already , a new generation of more
+tech savvy physicians routinely utilize specialized apps on mobile devices.
+
+At the same
+time, workloads on primary care clinicians have increased to the point that they are
+grateful for help from any quarter.
+
+Thus, the opportunity to exploit new learning methods,
+to create structured patterns of inference by mining the scientific literature automatically ,
+and to create true cognitive assistants by supporting free-form dialogue, has never
+been greater.
+
+Provided these advances are not stymied by regulatory , legal, and social
+barriers, immense improvements to the value of healthcare are within our grasp.
+
+Healthcare analytics
+At the population level, AI’s ability to mine outcomes from millions of patient clinical
+records promises to enable finer-grained, more personalized diagnosis and treatment.
+
+Automated discovery of genotype-phenotype connections will also become possible
+as full, once-in-a-lifetime genome sequencing becomes routine for each patient.
+
+A related (and perhaps earlier) capability will be to find “patients like mine” as a way
+to inform treatment decisions based on analysis of a similar cohort.
+
+Traditional and
+non-traditional healthcare data, augmented by social platforms, may lead to the emergence
+of self-defined subpopulations, each managed by a surrounding ecosystem of healthcare
+providers augmented with automated recommendation and monitoring systems.
+
+These developments have the potential to radically transform healthcare LeighAnne Olsen, Dara Aisner, and J.
+
+Michael McGinnis, eds., “Institute of Medicine
+(US) Roundtable on Evidence-Based Medicine,” The Learning Healthcare System: Workshop Summary., nlm.nih.gov/books/NBK53500/ .
+
+Katherine E.
+
+Henry , David N.
+
+Hager, Peter J.
+
+Pronovost, and Suchi Saria, “ A Targeted Realtime Early Warning Score (TREWScore) for Septic Shock,” Science Translational Medicine , (299),
+299ra122.AI-based applications
+could improve health
+outcomes and quality of
+life for millions of people
+in the coming years—but
+only if they gain the trust
+of doctors, nurses, and
+patients.
+
+27delivery as medical procedures and lifetime clinical records for hundreds of millions
+of individuals become available.
+
+Similarly , the automated capture of personal
+environmental data from wearable devices will expand personalized medicine.
+
+These
+activities are becoming more commercially viable as vendors discover ways to engage
+large populations (e.g.
+
+ShareCare)63 and then to create population-scale data that can
+be mined to produce individualized analytics and recommendations.
+
+Unfortunately , the FDA has been slow to approve innovative diagnostic software,
+and there are many remaining barriers to rapid innovation.
+
+HIPAA (Health Insurance
+Portability and Accountability Act) requirements for protecting patient privacy create
+legal barriers to the flow of patient data to applications that could utilize AI technologies.
+
+Unanticipated negative effects of approved drugs could show up routinely , sooner, and
+more rigorously than they do today , but mobile apps that analyze drug interactions
+may be blocked from pulling the necessary information from patient records.
+
+More
+generally , AI research and innovation in healthcare are hampered by the lack of
+widely accepted methods and standards for privacy protection.
+
+The FDA has been
+slow to approve innovative software, in part due to an unclear understanding of the
+cost/benefit tradeoffs of these systems.
+
+If regulators (principally the FDA) recognize
+that effective post-marketing reporting is a dependable hedge against some safety risks,
+faster initial approval of new treatments and interventions may become possible.
+
+Automated image interpretation has also been a promising subject of study for
+decades.
+
+Progress on interpreting large archives of weakly-labeled images, such as
+large photo archives scraped from the web, has been explosive.
+
+At first blush, it is
+surprising that there has not been a similar revolution in interpretation of medical
+images.
+
+Most medical imaging modalities (CT , MR, ultrasound) are inherently digital,
+the images are all archived, and there are large, established companies with internal
+R&D (e.g.
+
+Siemens, Philips, GE) devoted to imaging.
+
+But several barriers have limited progress to date.
+
+Most hospital image archives
+have only gone digital over the past decade.
+
+More importantly , the problem in
+medicine is not to recognize what is in the image (is this a liver or a kidney?), but
+rather to make a fine-grained judgement about it (does the slightly darker smudge
+in the liver suggest a potentially cancerous tumor?).
+
+Strict regulations govern these
+high-stakes judgements.
+
+Even with state-of-the-art technologies, a radiologist will still
+likely have to look at the images, so the value proposition is not yet compelling.
+
+Also,
+healthcare regulations preclude easy federation of data across institutions.
+
+Thus, only
+very large organizations of integrated care, such as Kaiser Permanente, are able to
+attack these problems.
+
+Still, automated/augmented image interpretation has started to gain momentum.
+
+The next fifteen years will probably not bring fully automated radiology , but initial forays
+into image “triage” or second level checking will likely improve the speed and costeffectiveness of medical imaging.
+
+When coupled with electronic patient record systems,
+large-scale machine learning techniques could be applied to medical image data.
+
+For
+example, multiple major healthcare systems have archives of millions of patient scans,
+each of which has an associated radiological report, and most have an associated
+patient record.

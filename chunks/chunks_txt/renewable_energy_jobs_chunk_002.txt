@@ -1,0 +1,36 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 518
+--------------------------------------------------------------------------------
+
+## Chapter
+
+... in solar PV 40%Average women‘s share...45.9%
+... economy-wide22%
+... in oil and gas 21%
+... in wind energy0 10 20 30 40 50 70 60 Jobs (%)Women’s share in solar PV
+Senior management
+Management
+STEM
+Other
+non-technical
+Other technical
+Administration
+58%
+17%
+35%30%
+32%
+38%women. Further, national policies are needed to create safer spaces and better workplace practices, policies
+and regulations. Also, women need networks and systems to support training and mentorship to enable full utilisation of their talents.
+IRENA will continue to work for reducing barriers, fostering inclusivity and empowering women to actively
+participate and excel in the sector. Furthermore, IRENA is fully committed to mainstreaming gender considerations, integrating gender equality and equity into its policies, programmes and initiatives. Prioritising gender equality and promoting diversity in the renewable energy sector fosters a more equitable and sustainable future for all.
+million jobs
+EDITIONthEDITIONth1.2 WIND
+In 2022, the wind energy sector installed 74.6GW of capacity, 19% below the previous
+year’s and 33% slower than the record pace in 2020. Except for Sweden and France, new capacity additions in all leading countries were below that in the peak year. China retained the lead with close to half of global additions, far ahead of the United States, Brazil, the United Kingdom, Sweden, Türkiye, Germany, India, France and Spain (IRENA, 2023b).
+Global employment in onshore and offshore wind remained steady at 1.4 million jobs in
+2022. Wind employment was concentrated in a relatively small number of countries. China
+alone accounted for 48% of the global total, followed by Asia (representing 55%), Europe
+(representing 29%), the Americas (representing 16%) and Africa and Oceania (representing
+0.7%). The top ten countries shown in On average, installation of 1GW of onshore wind capacity could create 130 000  jobs
+in development, construction and installation over a five-year period and 12 000  jobs annually during the 25-year O&M phase (GWEC, 2022). Meanwhile, the greater complexity of components like foundations, substations, cables and installation vessels creates higher labour requirements for offshore wind farms than onshore installations.

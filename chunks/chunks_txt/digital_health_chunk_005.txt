@@ -1,0 +1,40 @@
+Document: Digital_Health
+Section: Strategic Objectives > 27Policy options and actions
+Tokens: 337
+--------------------------------------------------------------------------------
+
+## 27Policy options and actions
+
+The following policy options and actions are proposed:
+- place people at the centre of digital health through the
+appropriate health data ownership, adoption and use of digital
+health technologies and development of appropriate literacy; the
+focus will cover not only patients, families and communities but
+also health workers;
+- develop approaches to the management of health at the
+population level through digital health applications that move
+health and well-being from reactive-care models to active
+community-based models, and reduce the burden of data
+collection from front-line workers by reorienting reporting-based
+tools into service delivery tools;
+- establish monitoring and evaluation models to facilitate
+monitoring the contribution of digital systems to health system
+processes, health workforce processes, and individual and
+community health needs;
+- strengthen gender equality and health equity approaches and
+accessibility for people with disabilities to promote inclusive
+digital society with enhanced digital health skills. When planning
+and prioritizing digital health interventions, relevant factors
+of inequality should be assessed in order to ensure that the
+introduction of digital health technologies does not aggravate
+these ( “do no harm” ) and that access for specific population
+groups is guaranteed. In addition, the specific potential of digital
+technologies to promote health equity should be leveraged.
+Designed properly, digital solutions can propel inclusiveness as
+digital connectivity can transcend physical barriers;
+- implement mechanisms for more effective public participation
+and transparency in national and international digital health
+decision-making processes, such as through international
+consultation processes or a stakeholder forum;
+- develop digital health training or Massive Open Online Courses to
+improve digital health literacy; and

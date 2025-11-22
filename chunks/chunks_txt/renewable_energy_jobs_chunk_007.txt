@@ -1,0 +1,31 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 832
+--------------------------------------------------------------------------------
+
+## Chapter
+
+33The above work mostly requires low to moderate technical skills (see in a country’s workforce or can be developed through certification programmes or vocational training centres.
+By employing local talent, small-scale hydropower projects contribute to local capacity development and skill
+enhancement.
+Connecting renewable energy supply with income-generating activities, known as productive end uses, has
+the potential to boost productivity, increase incomes, create local employment and catalyse rural economies. However, translating energy access into livelihood improvements requires investing in a social ecosystem that fosters technology solutions tailored to the specific needs of local communities. This investment should include financing, capacity and skill training, market access and cross-sector policy support to fully realise the benefits of decentralised renewable energy solutions.
+The hardware required for small-scale hydropower can be manufactured locally. This creates opportunities for local skill building and fostering enterprise development. However, costly international standards often hinder local developers from competing for projects. Donor-funded international programmes must encourage the involvement of local experts instead of relying solely on foreign service providers. Full realisation of small-scale hydropower’s benefits and maximum domestic value creation require policies and measures to prioritise community capacity enhancement along the value chain and the promotion of social acceptance.
+As the sector continues to grow, the demand for skilled workers in installation, maintenance, entrepreneurship
+and community engagement will increase. The expansion of the decentralised renewable energy job market has a positive multiplier effect, benefiting local economies, reducing poverty and fostering social development.
+Non-STEM Low and mid skills STEM Administrative93%2.4% 4%0.3% 0.3%
+4% 8%2%
+12% 7%
+88% 79%
+500kW
+50kW5kW
+Achieving universal access to clean cooking solutions is a pressing global challenge.
+Traditional cooking methods, such as open fires and inefficient stoves, not only contribute to indoor air pollution but also have severe health, environmental and socio-economic implications. Renewables-based clean cooking solutions, including bioethanol-based, biogas-based, electricity-driven and modern biomass-based solutions, present a significant opportunity to accelerate progress towards Sustainable Development Goal 7 and offer substantial job opportunities.
+Studies show that countries such as Kenya had about 700 FTE jobs in the bioethanol
+sector in 2019, while the biogas sector employed 800  people and the electric cooking sector employed 200 (Lee et al. , 2021). The potential for an increase in jobs numbers in
+the clean cooking sector is substantial if renewable-based solutions were to replace liquid petroleum gas. Currently, the sector, including liquid petroleum gas, is estimated to provide approximately 19 000 direct, formal jobs. There is also potential for 15 000–35 000 direct but informal jobs. Viet Nam’s biogas programme deployed over 180 000 biodigesters between 2003 and 2020, creating 2 500 jobs in the construction and services sectors (SNV and EnDev, 2021). Training and skill development is a critical element of local job creation in the clean cooking sector, which involves manufacturers, installers and O&M providers, as well as smallholder farmers where feedstock is needed ( e.g. bioethanol supply chains)
+(IRENA, 2023d).
+Lee et al. (2021) also showed that women’s involvement in the sector is limited, representing
+only about 20% of the non-managerial workforce, due to the physically demanding nature
+of these jobs. However, there are more women managers in the clean cooking sector. For biogas-based solutions, about one-third of managers are women, a share that rises to one-half for bioethanol-based and electricity-powered cooking solutions. According to the study, companies typically express a strong desire to involve women in managerial roles and in the research and development of products. The clean cooking sector thus presents a unique opportunity to bridge both the skill and gender gap (Lee et al. , 2021).
+EDITIONth

@@ -1,0 +1,45 @@
+{
+  "agents": {
+    "Artificial_Intelligence": {
+      "agent_id": "Artificial_Intelligence",
+      "name": "AI & Machine Learning Expert",
+      "description": "Expert in artificial intelligence, machine learning, deep learning, neural networks, computer vision, NLP, robotics, and AI applications across various domains including transportation, healthcare, education, and employment.",
+      "index_path": "agents/Artificial_Intelligence/faiss.index",
+      "metadata_path": "agents/Artificial_Intelligence/metadata.json"
+    },
+    "Cybersecurity": {
+      "agent_id": "Cybersecurity",
+      "name": "Cybersecurity Specialist",
+      "description": "Specializes in cybersecurity frameworks, NIST standards, risk management, security controls, data protection, cyber threats, and organizational security policies.",
+      "index_path": "agents/Cybersecurity/faiss.index",
+      "metadata_path": "agents/Cybersecurity/metadata.json"
+    },
+    "Digital_Health": {
+      "agent_id": "Digital_Health",
+      "name": "Digital Health Expert",
+      "description": "Focuses on digital health strategies, healthcare technology, telemedicine, health information systems, patient data management, and healthcare digitalization globally.",
+      "index_path": "agents/Digital_Health/faiss.index",
+      "metadata_path": "agents/Digital_Health/metadata.json"
+    },
+    "Human_Development": {
+      "agent_id": "Human_Development",
+      "name": "Human Development Specialist",
+      "description": "Expert in human development, poverty reduction, inequality, education, mental health, social welfare, employment, and sustainable development goals.",
+      "index_path": "agents/Human_Development/faiss.index",
+      "metadata_path": "agents/Human_Development/metadata.json"
+    },
+    "Renewable_Energy_Jobs": {
+      "agent_id": "Renewable_Energy_Jobs",
+      "name": "Renewable Energy & Jobs Expert",
+      "description": "Specializes in renewable energy technologies (solar, wind, hydropower), green jobs, energy employment, sustainability, and clean energy transitions.",
+      "index_path": "agents/Renewable_Energy_Jobs/faiss.index",
+      "metadata_path": "agents/Renewable_Energy_Jobs/metadata.json"
+    }
+  },
+  "config": {
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_dimension": 768,
+    "top_k": 2,
+    "total_agents": 5
+  }
+}

@@ -1,0 +1,140 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1205
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+New algorithms for
+personalized tutoring, such as Bayesian Knowledge Tracing, enable individualized
+mastery learning and problem sequencing.83
+Most surprising has been the explosion of the Massive Open Online Courses
+(MOOCs) and other models of online education at all levels—including the use
+of tools like Wikipedia and Khan Academy as well as sophisticated learning
+management systems that build in synchronous as well as asynchronous education
+and adaptive learning tools.
+
+Since the late 1990s, companies such as the Educational
+Testing Service and Pearson have been developing automatic NLP assessment tools to
+co-grade essays in standardized testing.84 Many of the MOOCs which have become
+so popular, including those created by EdX, Coursera, and Udacity , are making use
+of NLP , machine learning, and crowdsourcing techniques for grading short-answer
+and essay questions as well as programming assignments.85 Online education systems
+that support graduate-level professional education and lifelong learning are also
+expanding rapidly .
+
+These systems have great promise because the need for face-to-face interaction is less important for working professionals and career changers.
+
+While not
+the leaders in AI-supported systems and applications, they will become early adopters
+as the technologies are tested and validated.
+
+It can be argued that AI is the secret sauce that has enabled instructors, particularly
+in higher education, to multiply the size of their classrooms by a few orders of
+magnitude—class sizes of a few tens of thousands are not uncommon.
+
+In order to
+continually test large classes of students, automated generation of the questions is
+Physics Essay Writing,” Intelligent Tutoring Systems: Proceedings of the 6th International Conference , (Springer
+Berlin Heidelberg, 2002), 158–167.
+
+VanLehn et al, “The Architecture of Why2-Atlas.” “Resources and Support,” Carnegie Learning, carnegielearning.com/resources-support/ .
+
+Alan Lesgold, Suzanne Lajoie, Marilyn Bunzo, and Gary Eggan, “SHERLOCK: A Coached
+Practice Environment for an Electronics Troubleshooting Job,” in J.
+
+H.
+
+Larkin and R.
+
+W .
+
+Chabay ,
+eds., Computer-Assisted Instruction and Intelligent Tutoring Systems: Shared Goals and Complementary Approaches Michael V .
+
+Yudelson, Kenneth R.
+
+Koedinger, and Geoffrey J.
+
+Gordon, “ Individualized
+Bayesian Knowledge Tracing Models,” Artificial Intelligence in Education , (Springer Berlin Heidelberg,
+2013), 171–180.
+
+Jill Burstein, Karen Kukich, Susanne Wolff, Chi Lu, Martin Chodorow, Lisa Braden-Harder,
+and Mary Dee Harris, “ Automated Scoring Using a Hybrid Feature Identification Technique ” in
+Proceedings of the Annual Meeting of the Association of Computational Linguistics , Montreal, Canada, August
+1998, udacity .com/ , all is the secret sauce that
+has enabled instructors,
+particularly in higher
+education, to multiply the
+size of their classrooms
+by a few orders of
+magnitude—class sizes of
+a few tens of thousands
+are not uncommon.
+
+33also possible, such as those designed to assess vocabulary ,86 wh (who/what/when/
+where/why) questions,87 and multiple choice questions,88 using electronic resources
+such as WordNet, Wikipedia, and online ontologies.
+
+With the explosion of online
+courses, these techniques are sure to be eagerly adopted for use in online education.
+
+Although the long term impact of these systems will have on the educational system
+remains unclear, the AI community has learned a great deal in a very short time.
+
+Learning analytics
+Data sets being collected from massive scale online learning systems, ranging from
+MOOCs to Khan Academy , as well as smaller scale online programs, have fueled
+the rapid growth of the field of learning analytics.
+
+Online courses are not only good
+for widespread delivery , but are natural vehicles for data collection and experimental
+instrumentation that will contribute to scientific findings and improving the quality
+of learning at scale.
+
+Organizations such as the Society for Learning Analytics
+Research (SOLAR), and the rise of conferences including the Learning Analytics and
+Knowledge Conference89 and the Learning at Scale Conference (L@S)90 reflect this
+trend.
+
+This community applies deep learning, natural language processing, and other
+AI techniques to analysis of student engagement, behavior, and outcomes.
+
+Current projects seek to model common student misconceptions, predict
+which students are at risk of failure, and provide real-time student feedback that is
+tightly integrated with learning outcomes.
+
+Recent work has also been devoted to
+understanding the cognitive processes involved in comprehension, writing, knowledge
+acquisition, and memory , and to applying that understanding to educational practice
+by developing and testing educational technologies.
+
+Challenges and opportunities
+One might have expected more and more sophisticated use of AI technologies in
+schools, colleges, and universities by now.
+
+Much of its absence can be explained
+by the lack of financial resources of these institutions as well as the lack of data
+establishing the technologies’ effectiveness.
+
+These problems are being addressed,
+albeit slowly , by private foundations and by numerous programs to train primarily
+secondary school teachers in summer programs.
+
+As in other areas of AI, excessive
+hype and promises about the capabilities of MOOCs have meant that expectations
+frequently exceed the reality .
+
+The experiences of certain institutions, such as San Jose
+State University’s experiment with Udacity ,91 have led to more sober assessment of
+the potential of the new educational technologies.
+
+Jonathan C.
+
+Brown, Gwen A.
+
+Frishkoff , and Maxine Eskenazi, “ Automatic Question
+Generation for Vocabulary Assessment,” Proceedings of Human Language Technology Conference and
+Conference on Empirical Methods in Natural Language Processing (HLT/EMNLP) , Vancouver, October
+2005,, 819–826.

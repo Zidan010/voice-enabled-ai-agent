@@ -1,0 +1,121 @@
+Document: Cybersecurity
+Section: Cybersecurity
+Tokens: 1204
+--------------------------------------------------------------------------------
+
+## Cybersecurity
+
+For government entities , these may be division - or branch- level considerations .
+
+When
+implementing the CSF, managers will focus on how to achieve risk targets through common
+services, controls, and collaboration, as expressed in the Target Profile and improved through
+the actions being tracked in the action plan (e.g., risk register, risk detail report, POA&M) .
+
+Practitioners focus on implementing the target state and measuring changes in operational risk
+to help plan, carry out, and monitor specific cybersecurity activities.
+
+As controls are
+implemented to manage risk at an acceptable level, practitioners provi de managers and
+executives with the information (e.g., key performance indicators, key risk indicators) they need
+to understand the organization’s cybersecurity posture, make informed decisions , and maintain
+or adjust the risk strategy accordingly.
+
+Executives can also combine this cybersecurity risk data
+with information about other types of risk from across the organization.
+
+Updates to
+expectations and priorities are included in updated Organizational Profiles as the cycle repeats.
+
+5.2.
+
+Impr oving Integration with Other Risk Management Programs
+Every organization faces numerous types of ICT risk (e.g., privacy, supply chain, artificial
+intelligence ) and may use frameworks and management tools that are specific to each risk .
+
+Some organizations integrate ICT and all other risk management efforts at a high level by using
+ERM , while others keep the efforts separate to ensure adequate attention on each.
+
+Small
+NIST CSWP 29 February 26, 2024
+12 organizations by their nature may monitor risk at the enterprise level, while larger companies
+may maintain separate risk management efforts integrated into the ERM.
+
+Organizations can employ an ERM approach to balance a portfolio of risk considerations,
+including cybersecurity , and make informed decisions .
+
+Executives receive s ignificant input
+about current and planned risk activities as they integrate governance and risk strateg ies with
+results from previous uses of the CSF .
+
+The CSF helps organizations to translate their
+terminology for cybersecurity and cybersecurity risk management into general risk
+management language that executives will understand.
+
+NIST resources that describe the mutual relationship between cybersecurity risk management
+and ERM include:
+- NIST Cybersecurity Framework 2.0 – Enterprise Risk Management Quick -Start Guide
+- NIST Interagency Report 8286, Integrating Cybersecurity and Enterprise Risk
+Management
+- IR 8286A, Identifying and Estimating Cybersecurity Risk for E nterprise Risk Management
+- IR 8286B, Prioritizing Cybersecurity Risk for Enterprise Risk Management
+- IR 8286C , Staging Cybersecurity Risks for Enterprise Risk Management and Governance
+Oversight
+- IR 8286D, Using Business Impact Analysis to Inform Risk Prioritization and Response
+- SP 800- 221, Enterprise Impact of Information and Communications Technology Risk:
+Governing and Managing ICT Risk Programs Within an Enterprise Risk Portfolio
+- SP 800- 221A, Informati on and Communications Technology Risk Outcomes:
+Integrating ICT Risk Management Programs with the Enterprise Risk Portfolio
+An organization may also find the CSF beneficial for integrating cybersecurity risk management
+with individual ICT risk management programs , such as :
+- Cybersecurity risk management and assessment : The CSF can be integrated with
+established cybersecurity risk management and assessment programs , such as SP 80037, Risk Management Framework for Information Systems and Organizations , and SP
+800- 30, Guide for Conducting Risk Assessments fr om the NIST Risk Management
+Framework.
+
+For an organization using the NIST RMF and its suite of publications ,
+the CSF can be used to complement the RMF’s approach to selecting and prioritizing
+controls from SP 800 -5 3, Security and Privacy Controls for Information Systems and
+Organizations .
+
+- Privacy risk s: While cybersecurity and privacy are independent disciplines, their
+objectives overlap in certain circumstances, as illustrated in NIST CSWP 29 February 26, 2024
+Cybersecurity risk management is essential for addressing privacy risks related to the
+loss of the confidentiality, integrity, and availability of individuals’ data.
+
+For example,
+data breaches could lead to identity theft.
+
+However, privacy risks can also arise by means that are unrelated to cybersecurity incidents .
+
+An o rganization process es data to achieve mission or business purposes, which can
+sometimes give rise to privacy events whereby individuals may experience problems as
+a result of the data proces sing.
+
+The se problems can be expressed in various ways, but
+NIST describes them as ranging from dignity -type effects (e.g., embarrassment or
+stigma ) to more tangible harms (e.g., discrimination, economic loss, or physical harm) .
+
+The NIST Privacy Framework a nd Cybersecurity Framework can be used together to
+address the different aspects of cybersecurity and privacy risks.
+
+Additionally, NIST’s
+Privacy Risk Assessment Methodology h as a catalog of example problems for
+use in privacy risk assessment s.
+
+- Suppl y chain risk s: An o rganization can use t he CSF to foster cybersecurity risk oversight
+and communications with stakeholders across supply chains.
+
+All types of technology rely
+on a complex, globally distributed, extensive, and interconnected supply chain
+ecosystem with geographically diverse routes and multiple levels of outsourcing.
+
+This
+ecosystem is composed of public - and private -sector entities (e.g., acquirers, suppliers,
+developers, system integrators, external system service providers, and other technology -related service providers) that interact to research, develop, design,
+manufacture, acquire, deliver, integrate, operate, maintain, dispose of, and otherwise utilize or manage technology products and services.
+
+These interactions are shaped and influenced by technologies, laws, policies, procedures, and practices.
+
+Given the complex and interconnected relationships in this ecosystem , supply chain risk
+management is critical for organizations.

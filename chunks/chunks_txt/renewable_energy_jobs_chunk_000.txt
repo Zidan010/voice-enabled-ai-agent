@@ -1,0 +1,51 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 629
+--------------------------------------------------------------------------------
+
+## Renewable Energy Jobs
+
+---
+
+## Chapter
+
+hydropower and liquid biofuels. Other renewable energy technologies, included in ENERGY EMPLOYMENT
+BY TECHNOLOGY
+
+## Chapter
+
+Jobs (thousands)Solar photovoltaic
+Liquid biofuels
+Hydropower
+Wind energy
+Solid biomass
+Solar heating/
+cooling
+Biogas
+Heat pumps
+Geothermal energy
+Others
+CSP
+Municipal and
+industrial waste
+Tide, wave and
+ocean energy
+million jobs
+EDITIONthEDITIONth1.1 SOLAR PHOTOVOLTAIC
+Yet another record was set in 2022 – with the addition of 191.4GW of solar PV capacity
+worldwide, up from 141.2GW in 2021. China accounted for 45% of these installations, or
+86GW, and was followed by the United States, India and Brazil. The Netherlands, Germany,
+Japan, Spain, Australia and the Republic of Korea rounded out the top ten (IRENA, 2023b).
+China is home to the vast majority of global solar PV manufacturing, supported by
+comprehensive industrial policies. The country retains a commanding position across the supply chain, from ingots and wafers to cells and modules. Southeast Asia has become an important, but much smaller, production and export hub, whereas the rest of the world has a marginal share in the supply chain.
+Europe’s PV imports surged during the first half of 2022 due to the Ukraine crisis and
+subsequent efforts to reduce reliance on oil and gas imports. However, installation rates trailed due to shortages of inverters and skilled labour, which subsequently slowed imports during the second half of the year. India’s module imports declined significantly after the first quarter of 2022 once its basic customs duty took effect. In Brazil, a rush of installations was triggered by an impending law imposing a grid fee on small-scale distributed projects (Chen, 2023).
+According to the United States (US) Department of Energy (US DOE, 2022), 1GW of
+production capacity (for crystalline silicon [c-Si] modules, which account for about 90% of
+all manufactured modules) could generate anywhere from 1 085 jobs to 2 020 direct jobs across the full value chain.
+IRENA estimates global solar PV employment at 4.9  million in 2022, up from about 4.3  million
+in 2021. Of the ten leading countries shown in Americas and three are in Europe . Together, the top ten accounted for almost 4.1  million
+jobs, or 85% of the global total. Asian countries host 73% of the world’s PV jobs, reflecting
+the region’s continued dominance of manufacturing and strong presence in installations. The
+remaining jobs were in the Americas (11.5% of all jobs), Europe (11%; with European Union
+[EU] member states accounting for 10.6%) and the rest of the world (4.8%).

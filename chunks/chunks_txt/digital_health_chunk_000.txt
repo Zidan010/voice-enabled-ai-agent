@@ -1,0 +1,47 @@
+Document: Digital_Health
+Section: Guiding Principles
+Tokens: 422
+--------------------------------------------------------------------------------
+
+## Digital Health
+
+---
+
+13globally and within countries at national and subnational levels,
+that will contribute to building an internationally connected digital
+health system with consideration of potential risks. It aims to
+encourage international collaboration and to support countries in
+their national programmes towards improved health care service
+delivery, implementing national health strategies, promoting research
+and development and working towards achieving universal health
+coverage and the health-related Sustainable Development Goals.
+The global strategy will lead to concrete actions and results within the
+time frame from 2020 to 2025.Global strategy on digital health 2020-2025 PURPOSE
+15Acknowledge that institutionalization of digital health in the
+national health system requires a decision and commitment
+by countries
+The global strategy acknowledges that each country owns its digital
+health action plan built on the strategy, within its own national
+context. Along their path towards the health-related Sustainable
+Development Goals, countries will adopt digital health in a way that
+is sustainable, respects their sovereignty, and best suits their culture
+and values, national health policy, vision, goals, health and well-being
+needs, and available resources.
+Recognize that successful digital health initiatives require an
+integrated strategy
+Digital technologies are an essential component and an enabler
+of sustainable health systems and universal health coverage. To
+realize their potential, digital health initiatives must be part of the
+wider health needs and the digital health ecosystem and guided by
+a robust strategy that integrates leadership, financial, organizational,
+human and technological resources and is used as the basis for a
+costed action plan which enables coordination among multiple
+stakeholders. These initiatives should be led through strong
+governance structures. The strategy should address an approach that
+will work across multiple health priorities underpinned by standards
+and an architecture that enables this integration.
+Historical review shows that ill-coordinated or disjoined digital
+health initiatives lead to vertical or stand- alone information and
+communications technology solutions that, although well-intended,
+often result in information fragmentation and, consequently, poor
+delivery of services.

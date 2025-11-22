@@ -1,0 +1,129 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1185
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+Deep learning also has been applied to improve
+automobiles’ capacity to detect objects in the environment and recognize sound .29
+Self-driving vehicles
+Since the 1930s, science fiction writers dreamed of a future with self-driving cars,
+and building them has been a challenge for the AI community since the 1960s.
+
+By
+the 2000s, the dream of autonomous vehicles became a reality in the sea and sky , and
+even on Mars, but self-driving cars existed only as research prototypes in labs.
+
+Driving
+in a city was considered to be a problem too complex for automation due to factors
+like pedestrians, heavy traffic, and the many unexpected events that can happen
+outside of the car’s control.
+
+Although the technological components required to Carl Liersch, “Vehicle Technology Timeline: From Automated to Driverless,” Robert Bosch
+(Australia) Pty.
+
+Ltd., 2014, file/0009/246807/Carl_Liersch_Presentation.pdf .
+
+“Intelligent Parking Assist System,” Wikipedia , last modified July 26, 2016, accessed August 1,
+2016, .
+
+The Tesla Motors Team, “Summon Your Tesla from Your Phone,” Tesla, January 10, 2016,
+2016, .
+
+“ Autonomous cruise control system,” Wikipedia , last modified July 30, 2016, accessed August 1,
+2016, .
+
+“Blind spot monitor,” Wikipedia , last modified April 20, 2016, .
+
+Dana Hull, “Tesla Starts Rolling Out Autopilot Features,” Boomberg Technology , October 14,
+2015, software-upgrade-adds-automated-lane-changing-to-model-s .
+
+Aaron Tilley , “New Qualcomm Chip Brings Deep Learning To Cars,” Forbes , January 5, 2016,
+new-qualcomm-chip-brings-deep-learning-to-cars/#4cb4e9235357 .As cars will become better
+drivers than people, citydwellers will own fewer
+cars, live further from
+work, and spend time
+differently, leading to
+an entirely new urban
+organization.
+
+20make such autonomous driving possible were available in 2000—and indeed some
+autonomous car prototypes existed30 32—few predicted that mainstream companies
+would be developing and deploying autonomous cars by 2015.
+
+During the first
+Defense Advanced Research Projects Agency (DARPA) “grand challenge” on
+autonomous driving in 2004, research teams failed to complete the challenge in a
+limited desert setting.
+
+But in eight short years, from 2004-2012, speedy and surprising progress occurred
+in both academia and industry .
+
+Advances in sensing technology and machine learning
+for perception tasks has sped progress and, as a result, Google’s autonomous vehicles
+and Tesla’s semi-autonomous cars are driving on city streets today .
+
+Google’s selfdriving cars, which have logged more than 1,500,000 miles (300,000 miles without an
+accident),33 are completely autonomous—no human input needed.
+
+Tesla has widely
+released self-driving capability to existing cars with a software update.34 Their cars are
+semi-autonomous, with human drivers expected to stay engaged and take over if they
+detect a potential problem.
+
+It is not yet clear whether this semi-autonomous approach
+is sustainable, since as people become more confident in the cars’ capabilities, they
+are likely to pay less attention to the road, and become less reliable when they are
+most needed.
+
+The first traffic fatality involving an autonomous car, which occurred in
+June of 2016, brought this question into sharper focus.35
+In the near future, sensing algorithms will achieve super-human performance for
+capabilities required for driving.
+
+Automated perception, including vision, is already
+near or at human-level performance for well-defined tasks such as recognition and
+tracking.
+
+Advances in perception will be followed by algorithmic improvements
+in higher level reasoning capabilities such as planning.
+
+A recent report predicts
+self-driving cars to be widely adopted by 2020.36 And the adoption of self-driving
+capabilities won’t be limited to personal transportation.
+
+We will see self-driving and
+remotely controlled delivery vehicles, flying vehicles, and trucks.
+
+Peer-to-peer
+transportation services such as ridesharing are also likely to utilize self-driving vehicles.
+
+Beyond self-driving cars, advances in robotics will facilitate the creation and adoption
+of other types of autonomous vehicles, including robots and drones.
+
+It is not yet clear how much better self-driving cars need to become to encourage
+broad acceptance.
+
+The collaboration required in semi-self-driving cars and its
+implications for the cognitive load of human drivers is not well understood.
+
+But
+if future self-driving cars are adopted with the predicted speed, and they exceed
+human-level performance in driving, other significant societal changes will follow.
+
+Self-driving cars will eliminate one of the biggest causes of accidental death and
+injury in United States, and lengthen people’s life expectancy .
+
+On average, a “Navlab,” Wikipedia , last updated June 4, 2016, org/wiki/Navlab .
+
+“Navlab: The Carnegie Mellon University Navigation Laboratory ,” Carnegie Mellon
+University , 2016, .
+
+“Google Self-Driving Car Project,” Google, com/selfdrivingcar/ .
+
+Molly McHugh, “Tesla’s Cars Now Drive Themselves, Kinda,” Wired ,
+October 14, 2015, air-update-live/ .
+
+Molly McHugh, “Tesla’s Cars Now Drive Themselves, Kinda,” Wired , October 14, 2015,
+York Times , Last updated July 12, 2016, interactive/2016/07/01/business/inside-tesla-accident.html .

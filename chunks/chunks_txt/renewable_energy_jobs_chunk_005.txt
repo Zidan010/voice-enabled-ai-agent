@@ -1,0 +1,45 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 1086
+--------------------------------------------------------------------------------
+
+## Chapter
+
+FranceSweden30 000
+0Thousand jobs
+Italy
+Poland
+NetherlandsFinlandSpainNorwayDenmark
+SwitzerlandAustria
+United KingdomRest of EuropeGermany
+> **Box**
+Employment in heat pumps this figure includes production, sales distribution, installation, and after-sales service. The numbers cover
+air-to-water heaters and water/ground-to-water heat pumps, but exclude air-to-air heat pumps, i.e. air
+conditioning. Some 28 000 people produced equipment and 20 000 people produced components. Sales and installation services, including sales, logistics, installation, and after-sales, provided employment opportunities for 71 000 people, about 60% of the total. The China Heat Pump Alliance forecasts that the heat pump industry could provide employment opportunities for 400 000 people by 2030 in China.
+In the United States, the Energy and Employment Report estimates 6 465  jobs related to ground-source or
+geothermal heat pumps in 2022. The figure for air-source heat pumps is much higher, at 64 641 (US DOE, 2023).
+Following the COVID-19–induced activity slump in 2020 (when just 340  megawatts
+[MW] were installed), the off-grid sector rebounded, adding 690MW of new capacity in 2021 and 1 400MW in 2022 (IRENA, 2023b). Among various emerging technologies, decentralised renewable energy has emerged as a viable solution to provide reliable and clean power to communities, especially in remote areas. Beyond the environmental benefits, this decentralised approach creates local jobs and excellent opportunities for promoting diversity. This section discusses job and livelihood implications for mini-grids (often based on solar PV), small-scale hydropower and clean cooking solutions.
+1.6.1 Mini-grids
+Mini-grids will play an increasingly important role in closing existing gaps in energy access, especially in remote rural areas. In 2010, there were about 500  mini-grid installations in Sub-Saharan Africa. While the number has risen significantly, to over 3 000 installations at present, further acceleration is needed. According to one estimate, more than 160 000 mini-grids are required to address access needs (World Bank, 2023).
+Kenya features prominently in the region, having deployed a significant share of Africa’s
+mini-grids. The International Labour Organization has undertaken an assessment of the
+employment impacts of the EU-funded Green Mini-Grid (GMG) Facility Programme in Kenya, which consists of 33  sites, principally solar PV based. For a typical mini-grid, the study (Oyuma, Game and Lieuw-Kie-Song, 2023) assumes that the design and feasibility phase takes one month of work and the construction phase takes another month, engaging, respectively, 7 and 104 workers. This translates into 0.7 and 8.8 full-time equivalent (FTE) jobs, respectively, for a total of 9.5 FTE jobs, nearly all held by men. Most of the jobs are unskilled; almost half of the construction phase jobs pay an average daily wage of KES 500 (USD 4.69),
+5 compared with KES 1 600 (USD 15.025) for
+wiring work, and KES 2 700 (USD 25.355) for field engineers and household mappers, for example. For O&M, the study estimates an additional 2.8 FTE jobs. For the 33 sites under GMG, the study also estimated indirect and induced employment at 652 jobs (these are not necessarily FTE jobs) in agriculture, manufacturing and services. Women account for about 20% of the total.
+Based on average investment costs of EUR 195 275 per site and costs per connection of
+EUR 688, the study estimated that for every EUR 1 million invested, 58 FTE jobs could be created annually. Table 1 summarises key findings pertaining to direct jobs at present and direct jobs if future mini-grid targets are realised.
+EDITIONth5 Average exchange rate of USD 1 = KES 106.488 in 2020, when the study was conducted. It should be noted
+t hat the exchange value of the Kenyan shilling has declined significantly since then. By September 2023,
+1 USD equalled 146 KES.
+Parameters FTE Jobs
+Average mini-grid site Jobs in design and feasibility phase (temporary) 0.7
+Jobs in construction and commissioning phase (temporary) 8.8
+Jobs in operations and maintenance phase (permanent) 2.8
+Total direct jobs (temporary plus permanent) 12.3
+For 33 GMG sites aPermanent jobs 92
+Temporary Jobs 314
+Total jobs (temporary plus permanent) 406
+Future connection targets Estimated jobs created if 35 00
+0 households served b1 439
+Es timated jobs created if 1.1 million households served 45 1

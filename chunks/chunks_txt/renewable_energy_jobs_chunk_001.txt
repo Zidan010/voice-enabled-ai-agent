@@ -1,0 +1,41 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 636
+--------------------------------------------------------------------------------
+
+## Chapter
+
+19China accounted for about 56% of PV employment worldwide, or some 2.76  million jobs.
+Employment in PV in the United States reached 264 000  jobs in 2022. PV employment
+in Europe was estimated at 540 000 in 2022 of which 517 000  jobs were in EU Member
+States. India’s total solar jobs are estimated to be at 281 400. On-grid solar is estimated to
+have generated 201 400 jobs, with another 80 600 in off-grid settings. Increasing solar PV
+installations in Brazil boosted employment in this industry to 241 000  jobs. Japan added
+less capacity in 2021 than the previous year. IRENA estimates its workforce at 127 000.
+Women’s representation is higher in the workforce for solar PV than for other renewable
+energy technologies (see
+> **Box**).
+India China
+United States2.8
+0Million jobs
+Spain JapanPoland
+Viet Nam Australia Germany
+Brazil
+Top 10:
+85%
+of PV jobs56%
+of PV
+jobsEDITIONthEDITIONth
+> **Box**
+Solar PV: A gender perspective
+IRENA’s socio-economic work seeks to close the information gap regarding gender
+in the renewable energy industry. In the most recent report in the series A Gender Perspective , IRENA assessed the challenges faced by women working in the solar
+photovoltaic (PV) sector. The assessment considered both modern markets and energy access scenarios. The study, the third in the series, obtained primary data from individuals and organisations in the solar PV sector by means of a global online survey (IRENA, 2022a).
+The analysis showed that women represent 40% of the full-time positions in the
+solar PV sector, almost twice as much as in the wind or the oil and gas sectors (21% and 22%, respectively). The solar PV sector exceeds women’s average 32% share across the broader renewable energy sector but falls somewhat short of the share of women employed in the overall economy (see Women’s representation across solar PV job roles is uneven. They are most frequently hired for administrative
+positions, where their share reaches 58%. Meanwhile, women represented comparatively small shares, 32% of STEM (science, technology, engineering and mathematics) positions and 35% of non-STEM technical positions (such as lawyers or procurement experts) . Further, women hold 38% of other non-technical positions
+(e.g. marketing, sales, distribution, product assembly or installation). The better performance in this category is
+largely due to off-grid solar, which has multiple positions and initiatives targeting women. This may also influence leadership composition, with women accounting for 30% of managerial jobs. However, women represent 17%
+of the total senior management roles in the solar PV industry.
+Effective actions are needed to ease women’s entry into the industry and improve their career prospects and
+progression. Creating gender awareness is essential to fully understand the complexity of the barriers faced by

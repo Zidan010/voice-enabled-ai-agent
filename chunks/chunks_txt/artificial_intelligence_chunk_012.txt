@@ -1,0 +1,137 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1200
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+For
+example, multiple major healthcare systems have archives of millions of patient scans,
+each of which has an associated radiological report, and most have an associated
+patient record.
+
+Already , papers are appearing in the literature showing that deep neural
+networks can be trained to produce basic radiological findings, with high reliability ,
+by training from this data.64 Sharecare, Jianhua Yao, Daniel Mollura, and Ronald M.
+
+Summers, “Deep Convolutional Neural Networks for
+Computer-aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning,”
+IEEE Transactions on Medical Imaging 35, no.: 1285–1298.A small group of companies
+control the EHR market,
+and user interfaces
+are widely considered
+substandard, including
+annoying pop-ups that
+physicians routinely
+dismiss.
+
+28Healthcare robotics
+Fifteen years ago, healthcare robotics was largely science fiction.
+
+One company
+called Robodoc,65 a spin-out from IBM, developed robotic systems for orthopedic
+surgeries, such as hip and knee replacements.
+
+The technology worked, but the
+company struggled commercially , and was ultimately shut down and acquired for
+its technology .66 More recently , though, the research and practical use of surgical
+robotics has exploded.
+
+In Intuitive Surgical67 introduced the da Vinci system, a novel technology
+initially marketed to support minimally invasive heart bypass surgery , and then gained
+substantial market traction for treatment of prostate cancer and merged with its
+only major competition, Computer Motion, in 2003.
+
+The da Vinci, now in its fourth
+generation, provides 3D visualization (as opposed to 2D monocular laparoscopy) and
+wristed instruments in an ergonomic platform.
+
+It is considered the standard of care
+in multiple laparoscopic procedures, and used in nearly three quarters of a million
+procedures a year,68 providing not only a physical platform, but also a new data
+platform for studying the process of surgery .
+
+The da Vinci anticipates a day when much greater insight into how medical
+professionals carry out the process of providing interventional medical care will
+be possible.
+
+The presence of the da Vinci in day-to-day operation has also opened
+the doors to new types of innovation—from new instrumentation to image fusion
+to novel biomarkers—creating its own innovation ecosystem.
+
+The success of the
+platform has inspired potential competitors in robotic surgery , most notably the
+Alphabet spin-off Verb, in collaboration with J&J/Ethicon.69 There are likely to be
+many more, each exploring a unique niche or space and building out an ecosystem of
+sensing, data analytics, augmentation, and automation.
+
+Intelligent automation in hospital operations has been less successful.
+
+The story
+is not unlike surgical robotics.
+
+Twenty years ago, one company , HelpMate, created
+a robot for hospital deliveries,70 such as meals and medical records, but ultimately
+went bankrupt.
+
+More recently , Aethon71 introduced TUG Robots for basic deliveries,
+but few hospitals have invested in this technology to date.
+
+However, robotics in
+other service industries such as hotels and warehouses, including Amazon Robotics
+(formerly Kiva), are demonstrating that these technologies are practical and cost
+effective in at least some large-scale settings, and may ultimately spur additional
+innovation in health care.
+
+Looking ahead, many tasks that appear in healthcare will be amenable to
+augmentation, but will not be fully automated.
+
+For example, robots may be able to
+deliver goods to the right room in a hospital, but then require a person to pick them
+up and place them in their final location.
+
+Walking a patient down the corridor may ROBODOC, Procedure Volumes,” Forbes , January 22, 2016, sites/greatspeculations/2016/01/22/intuitive-surgical-maintains-its-growth-momentum-withstrong-growth-in-procedure-volumes/#22ae6b0939a1 .
+
+Evan Ackerman, “Google and Johnson & Johnson Conjugate to Create Verb Surgical,
+Promise Fancy Medical Robots,” IEEE Spectrum , December 17, 2015,
+verb-surgical-medical-robots .
+
+John M.
+
+Evans and Bala Krishnamurthy , “HelpMate®, the trackless robotic courier: A
+perspective on the development of a commercial autonomous mobile robot,” Lecture Notes in Control
+and Information Sciences , June 18,, 182–210,
+is not to recognize what is
+in the image—is this a liver
+or a kidney?—but rather
+to make a fine-grained
+judgement about it.
+
+Strict
+regulations govern these
+high-stakes judgements.
+
+29be relatively simple once a patient is standing in a walker (though will certainly not
+be trivial for patients recovering from surgery and/or elderly patients, especially in
+corridors crowded with equipment and other people).
+
+Driving a needle to place a
+suture is relatively straightforward once the needle is correctly placed.72 This implies
+that many future systems will involve intimate interaction between people and
+machines and require technologies that facilitate collaboration between them.
+
+The growth of automation will enable new insights into healthcare processes.
+
+Historically , robotics has not been a strongly data-driven or data-oriented science.
+
+This is changing as (semi)automation infiltrates healthcare.
+
+As the new surgical,
+delivery , and patient care platforms come online, the beginnings of quantification
+and predictive analytics are being built on top of data coming from these platforms.73
+This data will be used to assess quality of performance, identify deficiencies, errors,
+or potential optimizations, and will be used as feedback to improve performance.
+
+In
+short, these platforms will facilitate making the connection between what is done, and
+the outcome achieved, making true “closed-loop” medicine a real possibility .

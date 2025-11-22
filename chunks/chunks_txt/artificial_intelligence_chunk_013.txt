@@ -1,0 +1,141 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1164
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+In
+short, these platforms will facilitate making the connection between what is done, and
+the outcome achieved, making true “closed-loop” medicine a real possibility .
+
+Mobile health
+To date, evidence-driven analytics on healthcare have relied on traditional healthcare
+data—mainly the electronic medical records discussed above.
+
+In the clinical setting,
+there are hopeful trends towards bringing new data to bear.
+
+For example, TeleLanguage enables a human clinician to conduct language therapy sessions with
+multiple patients simultaneously with the aid of an AI agent trained by the clinician.
+
+And Lifegraph, which extracts behavioral patterns and creates alerts from data
+passively collected from a patient’s smartphone, has been adopted by psychiatrists in
+Israel to detect early signs of distressful behavior in patients.
+
+Looking ahead, driven by the mobile computing revolution, the astonishing growth
+of “biometrics in the wild”—and the explosion of platforms and applications that use
+them—is a hopeful and unanticipated trend.
+
+Thousands of mobile apps now offer
+information, introduce behavior modification, or identify groups of “people like me.”
+This, combined with the emerging trend of more specialized motion tracking devices,
+such as Fitbit, and the emerging (inter)connectedness between the home environment
+and health-monitoring devices, has created a vibrant new sector of innovation.
+
+By combining social and healthcare data, some healthcare apps can perform data
+mining, learning, and prediction from captured data, though their predictions are
+relatively rudimentary .
+
+The convergence of data and functionality across applications
+will likely spur new and even obvious products, such as an exercise app that not only
+proposes a schedule for exercise but also suggests the best time to do it, and provides
+coaching to stick to that schedule.
+
+Azad Shademan, Ryan S.
+
+Decker, Justin D.
+
+Opfermann, Simon Leonard, Axel Krieger, and
+Peter CW Kim, “Supervised Autonomous Robotic Soft Tissue Surgery ,” Science Translational Medicine
+8, no.: 337ra64–337ra64.
+
+Carolyn Chen, Lee White, Timothy Kowalewski, Rajesh Aggarwal, Chris Lintott, Bryan
+Comstock, Katie Kuksenok, Cecilia Aragon, Daniel Holst, and Thomas Lendvay , “Crowd-Sourced
+Assessment of Technical Skills: a novel method to evaluate surgical performance.” Journal of Surgical
+Research 187, no.: 65–71.Specialized motion
+tracking devices...
+
+and
+the emerging (inter)
+connectedness between
+the home environment and
+health-monitoring devices
+have created a vibrant new
+sector of innovation.
+
+30Elder care
+Over the next fifteen years the number of elderly in the United States will grow
+by over 50%.74 The National Bureau of Labor Statistics projects that home health
+aides will grow 38% over the next ten years.
+
+Despite the broad opportunities in this
+domain—basic social support, interaction and communication devices, home health
+monitoring, a variety of simple in-home physical aids such as walkers, and light meal
+preparation—little has happened over the past fifteen years.
+
+But the coming generational
+shift will accompany a change in technology acceptance among the elderly .
+
+Currently ,
+someone who is seventy was born in and may have first experienced some form
+of personalized IT in middle age or later, while a fifty-year-old today is far more
+technology-friendly and savvy .
+
+As a result, there will be a growing interest and market
+for already available and maturing technologies to support physical, emotional, social,
+and mental health.
+
+Here are a few likely examples by category:
+Life quality and independence
+- Automated transportation will support continued independence and expanded
+social horizons.
+
+- Sharing of information will help families remain engaged with one another at a
+distance, and predictive analytics may be used to “nudge” family groups toward
+positive behaviors, such as reminders to “call home.”
+- Smart devices in the home will help with daily living activities when needed,
+such as cooking and, if robot manipulation capabilities improve sufficiently ,
+dressing and toileting.
+
+Health and wellness
+- Mobile applications that monitor movement and activities, coupled with social
+platforms, will be able to make recommendations to maintain mental and
+physical health.
+
+- In-home health monitoring and health information access will be able to detect
+changes in mood or behavior and alert caregivers.
+
+- Personalized health management will help mitigate the complexities associated
+with multiple co-morbid conditions and/or treatment interactions.
+
+Treatments and devices
+- Better hearing aids and visual assistive devices will mitigate the effects of
+hearing and vision loss, improving safety and social connection.
+
+- Personalized rehabilitation and in-home therapy will reduce the need for
+hospital or care facility stays.
+
+- Physical assistive devices (intelligent walkers, wheel chairs, and exoskeletons) will
+extend the range of activities of an infirm individual.
+
+The Study Panel expects an explosion of low-cost sensing technologies that can
+provide substantial capabilities to the elderly in their homes.
+
+In principle, social
+agents with a physical presence and simple physical capabilities (e.g.
+
+a mobile robot
+with basic communication capabilities) could provide a platform for new innovations.
+
+However, doing so will require integration across multiple areas of AI—Natural
+Language Processing, reasoning, learning, perception, and robotics—to create
+a system that is useful and usable by the elderly .
+
+These innovations will also introduce questions regarding privacy within various
+circles, including friends, family , and care-givers, and create new challenges to
+accommodate an evermore active and engaged population far past retirement.
+
+Jennifer M.
+
+Ortman, Victoria A.

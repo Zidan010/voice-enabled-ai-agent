@@ -1,0 +1,138 @@
+Document: Artificial_Intelligence
+Section: INTELLIGENCE?
+Tokens: 1148
+--------------------------------------------------------------------------------
+
+## INTELLIGENCE?
+
+But as exemplified in current political debates, job loss is
+more salient to people—especially those directly affected—than diffuse economic
+gains, and AI unfortunately is often framed as a threat to jobs rather than a boon to
+living standards.
+
+There is even fear in some quarters that advances in AI will be so rapid as
+to replace all human jobs—including those that are largely cognitive or involve
+judgment—within a single generation.
+
+This sudden scenario is highly unlikely , but
+AI will gradually invade almost all employment sectors, requiring a shift away from
+human labor that computers are able to take over.
+
+The economic effects of AI on cognitive human jobs will be analogous to
+the effects of automation and robotics on humans in manufacturing jobs.
+
+Many
+middle-aged workers have lost well-paying factory jobs and the socio-economic status
+in family and society that traditionally went with such jobs.
+
+An even larger fraction
+of the total workforce may , in the long run, lose well-paying “cognitive” jobs.
+
+As labor
+becomes a less important factor in production as compared to owning intellectual
+capital, a majority of citizens may find the value of their labor insufficient to pay for
+a socially acceptable standard of living.
+
+These changes will require a political, rather
+than a purely economic, response concerning what kind of social safety nets should
+be in place to protect people from large, structural shifts in the economy .
+
+Absent
+mitigating policies, the beneficiaries of these shifts may be a small group at the
+upper stratum of the society .113
+In the short run, education, re-training, and inventing new goods and services may
+mitigate these effects.
+
+Longer term, the current social safety net may need to evolve into
+better social services for everyone, such as healthcare and education, or a guaranteed
+basic income.
+
+Indeed, countries such as Switzerland and Finland have actively considered
+such measures.
+
+AI may be thought of as a radically different mechanism of wealth
+creation in which everyone should be entitled to a portion of the world’s AI-produced
+treasure.114 It is not too soon for social debate on how the economic fruits of
+AI-technologies should be shared.
+
+As children in traditional societies support their
+aging parents, perhaps our artificially intelligent “children” should support us, the
+“parents” of their intelligence.
+
+For example, Brynjolfsson and McAfee, Second Machine Age , have two chapters of devoted to
+this (Erik Brynjolfsson and Andrew McAfee, The Second Machine Age: Work, Progress, and Prosperity in a
+Time of Brilliant Technologies ,) and Brynjolfsson,
+McAfee, and Spence describe policy responses for the combination of globalization and digital
+technology (Erik Brynjolfsson, Andrew McAfee, and Michael Spence, Foreign Affairs , July/August
+2014, 2014-06-04/new-world-order ).
+
+GDP does not do a good job of measuring the value of many digital goods.
+
+When society
+can’t manage what isn’t measured, bad policy decisions result.
+
+One alternative is to look at
+consumer surplus, not just dollar flows.
+
+As AI is embodied in more goods, this issue becomes more
+salient.
+
+It may look like GDP goes down but people have better well-being through access to these
+digital goods.
+
+See Erik Brynjolfsson and Adam Saunders, “What the GDP Gets Wrong (Why
+Managers Should Care),” Sloan Management Review , vol.
+
+51, no.: 95–96.As labor becomes a
+less important factor in
+production as compared
+to owning intellectual
+capital, a majority of
+citizens may find the value
+of their labor insufficient
+to pay for a socially
+acceptable standard of
+living.
+
+40ENTERTAINMENT
+With the explosive growth of the internet over the past fifteen years, few can imagine
+their daily lives without it.
+
+Powered by AI, the internet has established user-generated
+content as a viable source of information and entertainment.
+
+Social networks such
+as Facebook are now pervasive, and they function as personalized channels of
+social interaction and entertainment—sometimes to the detriment of interpersonal
+interaction.
+
+Apps such as WhatsApp and Snapchat enable smart-phone users to
+remain constantly “in touch” with peers and share sources of entertainment and
+information.
+
+In on-line communities such as Second Life and role-playing games such
+as World of Warcraft, people imagine an alternative existence in a virtual world.115
+Specialized devices, such as Amazon’s Kindle have also redefined the essentials of
+long-cherished pastimes.
+
+Books can now be browsed and procured with a few swipes
+of the finger, stored by the thousands in a pocket-sized device, and read in much the
+same way as a handheld paperback.
+
+Trusted platforms now exist for sharing and browsing blogs, videos, photos, and
+topical discussions, in addition to a variety of other user-generated information.
+
+To
+operate at the scale of the internet, these platforms must rely on techniques that are
+being actively developed in natural language processing, information retrieval, image
+processing, crowdsourcing, and machine learning.
+
+Algorithms such as collaborative
+filtering have been developed, for example, to recommend relevant movies, songs, or
+articles based on the user’s demographic details and browsing history .116
+Traditional sources of entertainment have also embraced AI to keep pace with the
+times.
+
+As exemplified in the book and movie Moneyball , professional sport is now subjected
+to intensive quantitative analysis.117 Beyond aggregate performance statistics, on-field
+signals can be monitored using sophisticated sensors and cameras.

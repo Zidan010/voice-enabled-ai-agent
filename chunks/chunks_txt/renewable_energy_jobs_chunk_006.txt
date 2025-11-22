@@ -1,0 +1,38 @@
+Document: Renewable_Energy_Jobs
+Section: Chapter
+Tokens: 518
+--------------------------------------------------------------------------------
+
+## Chapter
+
+31Table 1 Direct jobs in Kenyan mini-grid development
+N
+otes: a The number of sites that were developed under Phase 2 of the GMG programme.
+b It is estimated that 117 mini-grid sites are needed to meet this goal.
+FT
+E = full-time equivalent; GMG = Green Mini-Grid.
+RENEWABLE
+ENERGY BENEFITS
+LEVERAGING LOCAL CAPACITY
+FOR SMALL-SCALE HYDROPOWER
+Operation & maintenance Manufacturing Feasibility Planning & procurement Construction & installation94%1%3%1%1%
+1% 1%2%1%
+person-days9%3%
+12%
+87%
+77%7%
+500kW
+50kW5kW
+TOTAL 163780
+person-days63920
+person-days1.6.2 Small-scale hydropower
+Small-scale hydropower systems offer numerous benefits for local communities and the environment. They not
+only provide electricity but could also support irrigation services and connect communities to the central grid. They also make it possible to sell excess power, creating opportunities for additional income generation. In this way, they help transform local economies and generate inclusive growth by empowering rural women to participate in these activities. Further, community-based hydro mini-grids incentivise local communities to restore and maintain surrounding watersheds, contributing to environmental sustainability.
+The implementation value chain of small-scale hydropower offers plenty of local job opportunities. Jobs can be
+created due to feasibility studies, planning and procurement, and equipment manufacturing, to installation and connection, O&M, and eventually, decommissioning.
+According to IRENA’s latest Leveraging local capacity analysis (IRENA, 2023c), a small-scale hydropower plant
+requires substantial labour to implement. For instance, a pico hydro plant (averaging 5kW)
+requires over 17 000  person-days, a micro hydro facility (50kW) requires approximately 64 000 person-days and a mini hydro system (500kW) requires more than 160 000 person-days.
+6 Among all value chain segments for a system, the majority of labour is needed for
+O&M work over the system’s lifetime. This O&M work accounts for 94%, 87% and 78% of total person-days for pico, micro and mini hydro, respectively (see EDITIONthmicro and mini hydro plants
+6 Person-days reflect the amount of work done by one person working full-time for one day.

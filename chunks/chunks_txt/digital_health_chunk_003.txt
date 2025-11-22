@@ -1,0 +1,69 @@
+Document: Digital_Health
+Section: Strategic Objectives > 24should include defining principles and reaching cross-sectoral and
+Tokens: 626
+--------------------------------------------------------------------------------
+
+## 22To strengthen health systems by introducing digital technologies,
+
+a key objective is to find ways to build capacity and create a
+digitally-capable health workforce. Needs will vary from country to
+country, but they often include basic capacities, such as leadership
+and governance, and the development of a skilled health and
+technological workforce.
+Policy options and actions
+The following policy options and actions are proposed:
+- stimulate and support every country to adopt or review, own,
+and strengthen its national digital health strategy in a way that
+enhances the level of country maturity regarding digital health to
+achieve positive health outcomes in line with the national health
+plans, updated norms and standards recommendations, and
+universal health coverage;
+- ensure that institutions, decision-makers and personnel
+involved in the provision of health care services and all enduser communities and beneficiary populations are adequately
+engaged in the design and development phases;
+- facilitate a systematic engagement of all relevant stakeholders in
+the realization of the vision and its strategic objectives as part of
+an integrated digital health ecosystem at the national level;
+- define a national digital health architecture blueprint or road
+map, adopt open-source health data standards and aim for
+reusable systems or assets including interoperability of health
+information systems both at national and international levels in
+order to establish an innovative integration of different digital
+technologies using shared services, ensuring data are of good
+and comparable quality;
+- adopt legal and ethical frameworks for assuring patient safety,
+data security, appropriate use and ownership of health data,
+privacy data recoverability, as well as protection of intellectual
+property rights;
+- identify and promote sustainable financing models in
+support of digital health development and sharing of learning
+to inform future products and services. This is especially
+important in artificial intelligence including machine learning,
+implementation, integration and maintenance, including
+economic incentives; and
+- design, implement and monitor a change management plan, to
+support conducive organizational behaviour surrounding newly
+digitized health processes and practices.
+Outputs
+The following outputs are envisaged:
+- a national digital health strategy or equivalent strategic
+framework exists, is integrated in the national health strategy
+and is actively used to guide development and accelerate
+progress towards the health-related targets of the Sustainable
+Development Goals and in the context of digital transformation of
+health systems; and
+- a dynamic digital health maturity model assessment to guide
+prioritization of national investment in digital health is made in
+support of primary health care and universal health coverage.
+Strengthen governance for digital health at global, regional and
+national levels
+This strategic objective focuses on strengthening the governance of
+digital health at national and international levels through the creation
+of sustainable and robust governance structures and building the
+capacity for digital health at global and national levels. Governance
+for digital health aims to strengthen the capabilities and skills
+needed for countries to promote, innovate and scale up digital
+health technologies.
+The strategic objective promotes standards for safety, security,
+privacy, interoperability, and the ethical use of data within and
+outside the health sector. Actions to strengthen governance Digital health governance

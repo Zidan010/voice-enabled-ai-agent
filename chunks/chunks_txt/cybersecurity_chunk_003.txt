@@ -1,0 +1,149 @@
+Document: Cybersecurity
+Section: Cybersecurity
+Tokens: 1153
+--------------------------------------------------------------------------------
+
+## Cybersecurity
+
+They may be produced by NIST or another organization.
+
+S ome Informative
+References are narrower in scope than a Subcategory.
+
+For example, a particular control from SP
+800- 53, S ecurity and Privacy Controls for Information Systems and Organizations , may be one of
+many references needed to achieve the outcome described in one Subcategory.
+
+Other
+Informative References may be higher -level , such as a requirement from a polic y that partially
+address es numerous Subcategor ies.
+
+When using the CSF, an organization can identify the most
+relevant Informative References.
+
+Implementation Examples provide notional examples of concise, action- oriented steps to help
+achieve the outcomes of the Subcategories.
+
+Verbs used to express Examples include s hare,
+document, develop, perform , monitor, analyze, assess, and exercise .
+
+The Examples are not a
+comprehensive list of all actions that could be taken by an organization to achieve an outcome,
+nor do they re present a baseline of required actions to address cybersecurity risk s.
+
+Quick -Start Guides (QSGs) are brief documents on specific CSF -related topics and are often
+tailored to specific audiences .
+
+QSGs can help an organization implement the CSF because they
+distill specific portions of the CSF into actionable “ first steps ” that an organization can consider
+on the path to impr oving their cybersecurity posture and management of associated risks.
+
+The
+guides are revised i n their own time frames, and new guides are added as need ed.
+
+Suggestions for new Informative References for CSF 2.0 can always be shared with NIST at
+olir@nist.gov .
+
+Suggestions for other resources to reference on the NIST CSF website, including
+additional QSG topics, should be directed to cyberframew ork@nist.gov .
+
+NIST CSWP 29 February 26, 2024
+10 5.
+
+Improving Cybersecurity Risk Communication and Integration
+The CSF’s use will vary based on an organization’s unique mission and risks .
+
+With an
+understanding of stakeholder expectations and risk appetite and tolerance (as outlined in
+GOVERN ), an organization can prioritize cybersecurity activities to make informed decisions
+about cybersecurity expenditures and actions .
+
+An o rganization may choose to handle risk in one
+or more ways — including mitigating , transferring, avoiding, or accepting negative risks and
+realizing, sharing, enhancing, or accepting positive risks — depending on the potential impact s
+and likelihoods .
+
+Importantly, an organization can use the CSF both internally to manage its
+cybersecurity capabilities and externally to oversee or communicate with third parties.
+
+Regardles s of the CSF’s utilization , an organization may benefit from using the CSF as guidance
+to help it understand, assess, prioritize, and communicate cybersecurity risks and the actions
+that will manage those risks.
+
+The selected outcomes can be used to focus on and implement
+strategic decisions to improve cybersecurity posture s and maintain continuity of mission essential functions while taking priorities and available resources into account.
+
+5.1.
+
+Improv ing Risk Management Communication
+The CSF provides a basis for improved communication regarding cybersecurity expectations,
+planning, and resources.
+
+The CSF fosters bidirectional information flow (as shown in the top
+half of Fig.
+
+5) between executives who focus on the organization’s priorities and strategic
+direction and managers who manage specific cybersecurity risks that could affect the
+achievement of those priorities .
+
+The CSF also supports a similar flow (as shown in the bottom
+half of Fig.
+
+5) between managers and the practitioners who implement and operate the
+technologies .
+
+The lef t side of the figure indicates the importance of practitioners sharing their
+updates, insights, and concerns with managers and executives.
+
+NIST CSWP 29 February 26, 2024
+11 Preparing to creat e and us e Organizational Profiles involve s gathering information about
+organizational priorities, resources, and risk direction from executives .
+
+Managers then
+collaborate with practitioners to communicate business needs and create risk -informed
+Organizational Profiles.
+
+Actions to close any gaps identified between the Current and Target
+Profiles will be implemented by managers and practitioners and will provide key inputs into
+system -level plans.
+
+As the target state is achieved throughout the organization — including
+through controls and monitoring applied at the system level — the updated results can be
+shared through risk registers and progress reports.
+
+As part of ongoing assessment, managers
+gain insights to make adjustments that further reduce potential harm s and increase potential
+benefits.
+
+The GOVERN Function supports organizational risk communication with executives .
+
+Executives’
+discussion s involve strategy, particularly how cybersecurity- related uncertainties might affect
+the achievement of organizationa l objectives.
+
+These governance discussions support dialogue
+and agreement about risk management strateg ies (including cybersecurity supply chain risk);
+roles , responsibilities, and authorities; policies; and oversight.
+
+As executives establish
+cybersecurity priorities and objectives based on those needs, they communicate expectations
+about risk appetite, accountability , and resources .
+
+Executives are also responsible for
+integrating cybersecurity risk management with ERM programs and lower -level risk
+management programs (see Sec.
+
+5.2 ).
+
+The communications reflected in the top half of Fig.
+
+5 can
+include considerations for ERM and the lower -level programs and, thus , inform managers and
+practitioners .
+
+The overall cybersecurity objectives set by executives are informed by and cascade to
+managers .
+
+In a commer cial entity, these may apply to a line-of-business or operating division.
+
+For government entities , these may be division - or branch- level considerations .

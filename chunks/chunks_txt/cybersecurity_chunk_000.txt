@@ -1,0 +1,139 @@
+Document: Cybersecurity
+Section: Cybersecurity
+Tokens: 1202
+--------------------------------------------------------------------------------
+
+## Cybersecurity
+
+---
+
+NIST CSWP 29 February 26, 2024
+1 1.
+
+Cybersecurity Framework Overview
+This document is version 2.0 of the NIST Cybersecurity Framework ( Framework or CSF).
+
+It
+includes the following components :
+- CSF Core , the nucleus of the CSF, which is a taxonomy of high- level cybersecurity
+outcomes that can help any organization manage its cybersecurity risk s.
+
+The CSF Core
+components are a hierarchy of Functions , Categor ies, and Subcategor ies that detail each
+outcome.
+
+These outcomes can be understood by a broad audience, including
+executives, managers, and practitioners, regardless of their cybersecurity expertise.
+
+Because the outcomes are sector -, country -, and technology -neut ral, they provide an
+organization with the flexibility needed to address its unique risk s, technolog ies, and
+mission considerations.
+
+- CSF Organizational Profiles , which are a mechanism for describing an organization’s
+current and/ or target cybersecurity posture in terms of the CSF Core’s outcomes.
+
+- CSF Tiers , which can be applied to CSF Organizational Profiles to characterize the rigor of
+an organization’s cybersecurity risk governance and management practices .
+
+Tiers can
+also provide context for how an organization views cybersecurity risks and the processes
+in place to manage those risks.
+
+This document describes what desirable outcomes an organization can aspire to achieve.
+
+It
+does not prescribe outcomes nor how they may be achieved.
+
+Descriptions of how an
+organization can achieve those outcomes are provided in a suite of online resources that
+complement the CSF and are available through the NIST CSF website .
+
+These resources offer
+additional guidance on practices and controls that could be used to achieve outcome s and are
+intended to help an organization understand, adopt, and use the CSF.
+
+They include:
+- Informative References that point to sources of guidance on each outcome from existing
+global standards, guidelines, frameworks, regulations, policies, etc.
+
+- Implementation Examples that illustrate potential ways to achieve each outcome
+- Quick -Start Guides that give actionable guidance on using the CSF and its online
+resources , including transitioning from previous CSF versions to version 2.0
+- Community Profiles and Organizational Profile Templates that help an organization put
+the CSF into practice and set priorities for managing cybersecurity risks
+An organization can use the CSF Core, Profiles, and Tiers with the supplementary resources to
+understand, assess, prioritize, and communicate cybersecurity risks .
+
+- Understand and Assess: Describe the current or target cybersecurity posture of part or
+all of an organization, determine gaps, and assess progress toward addressing those gaps.
+
+NIST CSWP 29 February 26, 2024
+2 - Prioritize: Identify, organize, and prioritize actions for managing cybersecurity risks that
+align with the organization’s mission, legal and regulatory requirements, and risk
+management and governance expectations.
+
+- Communicate: Provide a common language for communicating inside and outside the
+organization about cybersecurity risks, capabilities, needs, and expectations.
+
+The CSF is de signed to be used by organizations of all sizes and sectors, including industry,
+government, academia, and nonprofit organizations, regardless of the maturity level of their cybersecurity programs.
+
+The CSF is a foundational resource that may be adopted voluntarily
+and through governmental policies and mandates .
+
+The CSF’s taxonomy and referenced
+standards, guidelines, and practices are not country -specific , and previous versions of the CSF
+have been leveraged successfully by many governments and other organi zations both inside
+and outside of the United States.
+
+The CSF should be used in conjunction with other resources (e.g., frameworks, standards,
+guidelines, leading practices ) to better manage cybersecurity risks and inform the overall
+management of informat ion and communications technology risks at an enterprise level.
+
+The CSF is a flexible framework that is intended to be tailored for use by all organizations
+regardless of size .
+
+Organizations will continue to have unique risks — including different threats
+and vulnerabilities — and risk tolerances, as well as unique mission objectives and
+requirements.
+
+Thus, organizations’ approaches to managing risk s and their implementations of
+the CSF will vary.
+
+The remainder of this document is structur ed as follows :
+- Section 2 explains the basics of the CSF Core: Functions, Categories, and Subcategories .
+
+- Section 3 defines the concepts of CSF Profiles and Tiers.
+
+- Section 4 provides an overview of selected components of the CSF’s suite of online
+resources : Informative References, Implementation Examples, and Quick Start Guides .
+
+- Section 5 discusses how an organization can integrat e the CSF with other risk
+management programs .
+
+- Appendix A is the CSF Core.
+
+- Appendix B contains a notional illustration of the CSF Tiers.
+
+- Appendix C is a glossary of CSF terminology.
+
+NIST CSWP 29 February 26, 2024
+3 2.
+
+Introduction to the CSF Core
+Appendix A is the CSF Core — a set of cybersecurity outcomes arranged by Function, then
+Category, and finally Subcategory , as depicted in actions to perform ; specific actions taken to achieve an outcome will vary by organization and
+use case , as will the individual responsible for those actions.
+
+Additionally, the order and size of
+Functions, Categories, and Subcategories in the Core does not imply the sequence or
+importance of achieving them .
+
+The structure of the Core is intended to resonate most with
+those charged with operationaliz ing risk management within an organization.
+
+The CSF Core Functions — G OVERN , IDENTIFY , PROTECT , DETECT , RESPOND , and RECOVER — organize
+cybersecurity outcomes at their highest level.
+
+- GOVERN — The organization’s cybersecurity risk management strategy,
+expectations, and policy are established, communicated, and monitored.

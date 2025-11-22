@@ -1,0 +1,179 @@
+{
+  "agent_id": "Digital_Health",
+  "agent_name": "Digital Health Expert",
+  "agent_description": "Focuses on digital health strategies, healthcare technology, telemedicine, health information systems, patient data management, and healthcare digitalization globally.",
+  "source_document": "Digital_Health.pdf",
+  "embedding_model": 768,
+  "embedding_dimension": 768,
+  "total_vectors": 6,
+  "chunks": [
+    {
+      "vector_id": 0,
+      "chunk_id": "digital_health_chunk_000",
+      "content": "## Digital Health\n\n---\n\n13globally and within countries at national and subnational levels,\nthat will contribute to building an internationally connected digital\nhealth system with consideration of potential risks. It aims to\nencourage international collaboration and to support countries in\ntheir national programmes towards improved health care service\ndelivery, implementing national health strategies, promoting research\nand development and working towards achieving universal health\ncoverage and the health-related Sustainable Development Goals.\nThe global strategy will lead to concrete actions and results within the\ntime frame from 2020 to 2025.Global strategy on digital health 2020-2025 PURPOSE\n15Acknowledge that institutionalization of digital health in the\nnational health system requires a decision and commitment\nby countries\nThe global strategy acknowledges that each country owns its digital\nhealth action plan built on the strategy, within its own national\ncontext. Along their path towards the health-related Sustainable\nDevelopment Goals, countries will adopt digital health in a way that\nis sustainable, respects their sovereignty, and best suits their culture\nand values, national health policy, vision, goals, health and well-being\nneeds, and available resources.\nRecognize that successful digital health initiatives require an\nintegrated strategy\nDigital technologies are an essential component and an enabler\nof sustainable health systems and universal health coverage. To\nrealize their potential, digital health initiatives must be part of the\nwider health needs and the digital health ecosystem and guided by\na robust strategy that integrates leadership, financial, organizational,\nhuman and technological resources and is used as the basis for a\ncosted action plan which enables coordination among multiple\nstakeholders. These initiatives should be led through strong\ngovernance structures. The strategy should address an approach that\nwill work across multiple health priorities underpinned by standards\nand an architecture that enables this integration.\nHistorical review shows that ill-coordinated or disjoined digital\nhealth initiatives lead to vertical or stand- alone information and\ncommunications technology solutions that, although well-intended,\noften result in information fragmentation and, consequently, poor\ndelivery of services.",
+      "section_path": [
+        "Guiding Principles"
+      ],
+      "metadata": {
+        "chunk_index": 0,
+        "char_count": 2371,
+        "token_estimate": 422,
+        "word_count": 322,
+        "has_header": true,
+        "header_text": "Digital Health",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 6,
+        "prev_chunk_id": null,
+        "next_chunk_id": "digital_health_chunk_001"
+      }
+    },
+    {
+      "vector_id": 1,
+      "chunk_id": "digital_health_chunk_001",
+      "content": "## Guiding Principles\n\nThe four guiding principles aim to orient the global strategy towards the\nappropriate and sustainable adoption of digital health technologies within\nthe context of national health sector and health strategies.16Promote the appropriate use of digital technologies for health\nThe global strategy promotes the appropriate use of digital\ntechnologies as digital public goods which are adaptable to different\ncountries and contexts to help address key health system challenges\nto support equity in access to digital resources so that no one is\nleft behind. It promotes the protection of people, populations,\nhealth care professionals and systems against misinformation and\nthe misuse of information, malicious cyber activities, fraud and\nexploitation, inappropriate use of health data, racism and human\nrights violations within the framework established by international\ntreaties binding the Member States.\nThe “digital determinants of health” , such as literacy in information\nand communication technologies and access to equipment,\nbroadband and the internet, become more important as digital\nhealth becomes more prevalent. The global strategy underscores the\nneed to ground digital foundations within national strategies and\nemphasizes the need to work with different sectors and stakeholders\nat all levels.\nThe global strategy promotes syntactic and semantic interoperability\nwith WHO norms and standards as a cornerstone of health\ninformation to enable sharing of information in a connected world.\nThe appropriate use of digital health takes the following dimensions\ninto consideration: health promotion and disease prevention, patient\nsafety, ethics, interoperability, intellectual property, data security\n(confidentiality, integrity, and availability), privacy, cost-effectiveness,\npatient engagement, and affordability. It should be people-centred,\ntrust-based, evidence-based, effective, efficient, sustainable,\ninclusive, equitable and contextualized. The growing global challenge\nof digital waste on health and the environment must also be\nappropriately managed.3\n17Recognize the urgent need to address the major impediments\nfaced by least-developed countries implementing digital\nhealth technologies\nThere is a pressing need to invest in efforts to overcome the major\nimpediments that developing countries face in engaging with and\naccessing new digital health technologies, such as an appropriate\nenabling environment, sufficient resources, infrastructure to support\nthe digital transformation, education, human capacity, financial\ninvestment and internet connectivity, as well as issues related to\nlegacy infrastructure, technology ownership, privacy, security, and\nadapting and implementing global standards and technology flows.4\nknowledge on digital health\nThis strategic objective aims to align countries and stakeholders to\ncollectively act upon global opportunities to improve health and\nwork towards universal health coverage, while meeting challenges,\nidentifying and communicating risks, and focusing on threats\nassociated with the use of digital technologies both to improve health\nand to enable universal health coverage, the core of the healthrelated Sustainable Development Goals. This objective encourages\naction on common opportunities and challenges that are relevant to\nall countries and stakeholders, regardless of their situation.\nMaximize the impact of both new and existing collaborations and\npartnerships in the wider digital health ecosystem. Knowledge of and\ninvestments in digital health design and implementation are shared\nacross domains; hence this strategic objective aims to maximize\ncollaborations and partnerships with other agencies within the\nUnited Nations system, countries and other stakeholders and to help\nto build new ones.\nAssess and promote the latest, appropriate and innovative health\ntechnologies. Pioneering health technologies are creating new and\nadvanced health care services and solutions. This sub-objective\nhelps to ensure that the quality and outcome of the new health\ntechnologies are assessed in order to enable their timely adoption\nand promotion. Norms, standards, policies and regulations are\nneeded to ensure the investment, sustainability, quality, security\nand safety of both digital health products and cutting-edge health\ntechnologies that not only are used in health care but that may also\nbe directly marketed to individuals. Global guidance, coordination",
+      "section_path": [
+        "Strategic Objectives"
+      ],
+      "metadata": {
+        "chunk_index": 1,
+        "char_count": 4452,
+        "token_estimate": 799,
+        "word_count": 608,
+        "has_header": true,
+        "header_text": "Guiding Principles",
+        "header_level": 2,
+        "parent_sections": [],
+        "contains_list": false,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 6,
+        "prev_chunk_id": "digital_health_chunk_000",
+        "next_chunk_id": "digital_health_chunk_002"
+      }
+    },
+    {
+      "vector_id": 2,
+      "chunk_id": "digital_health_chunk_002",
+      "content": "## Strategic Objectives\n\nThe four strategic objectives are intended to provide guidance and\ncoordination on global digital health transformation and to strengthen\nsynergies between initiatives and stakeholders to improve health\noutcomes and mitigate associated risks at all levels.\n\n## Collaboration and knowledge transfer\n\n20Policy options and actions\nThe following policy options and actions are proposed:\n- co-create the global strategy on digital health and establish\nmechanisms for strengthening national digital health strategies\nand implementing key collaborations on agreed-upon\nappropriate use of digital technologies to achieve national health\nand well-being goals;\n- establish a knowledge management approach to identify and\nshare good practices, knowledge about implementation of new\nmethods and techniques, evidence and lessons learned on digital\nhealth across countries and international communities;\n- support countries in establishing information centres for disease\nsurveillance to manage and implement timely decisions during\nepidemics and other public health emergencies;\n- align countries and stakeholders to address collectively global,\nregional and national challenges and opportunities; identify,\nmanage and communicate risks; and mitigate threats associated\nwith the use of digital technologies to improve health and\nenable universal health coverage, the core of the health- related\nSustainable Development Goals.\nOutputs\nThe following outputs are envisaged:\n- digital health is prioritized and integrated into health systems at\nglobal, regional and national levels through dedicated bodies\nand mechanisms for governance;\n- multistakeholder groups are convened on a regular\nbasis to support the appropriate use and scaling up of digital\nhealth and innovation in order to accelerate progress towards the\nhealth-related Sustainable Development Goals; and implementation of tools are required for their adoption and\nintegration into existing systems and services at the national level.\n- information centres for disease surveillance are established or\nstrengthened at national, regional and global levels.\nAdvance the implementation of national digital health\nstrategies\nStrategic objective 2 aims to stimulate and support every country to\nown, adapt and strengthen its strategy on digital health in a way that\nbest suits its vision, national context, health situation and trends,\navailable resources and core values.\nStrategic objective 2 encourages the development of a national\nstrategy on digital health through an all- inclusive multistakeholder\napproach including actors collaborating within communities of\npractice and with consideration to the following core components:\n(1) leadership and governance; (2) investment and operations;\n(3) services and applications for scaling up (4) integration and\nsustainability, while (5) standards and interoperability are respected;\n(6) a flexible digital infrastructure; (7) an adaptable health workforce\nand (8) legislation, ethics policies and compliance; and (9) a peoplecentred approach. These should all be developed while the necessary\nalignment of country stakeholders is ensured in order that the needs\nand expectations with given resources be met.\nThe strategic objective aims to develop cross-sectoral partnerships\nat national level to align resources and investments to ensure the\nsustainability and growth of digital health. The objective also seeks to\nwork with existing digital health partnerships to advance global digital\nhealth efforts. Developing national partnerships for the sustainability\nof digital health advances would accelerate their adoption by\nMember States.\nAlthough each country is expected to review or develop and own its\nstrategy from inception to implementation, this strategic objective\naims to build human and institutional capacity for the safe and\nappropriate use and scale-up of digital health by strengthening the\ncommitment and systematic engagement of all stakeholders in\nevery country. The objective underpins the promotion of innovative\nintegration of digital technologies into health systems.Digital strategy implementation",
+      "section_path": [
+        "Strategic Objectives",
+        "22To strengthen health systems by introducing digital technologies,"
+      ],
+      "metadata": {
+        "chunk_index": 2,
+        "char_count": 4135,
+        "token_estimate": 726,
+        "word_count": 571,
+        "has_header": true,
+        "header_text": "Strategic Objectives",
+        "header_level": 3,
+        "parent_sections": [
+          "Strategic Objectives"
+        ],
+        "contains_list": true,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 6,
+        "prev_chunk_id": "digital_health_chunk_001",
+        "next_chunk_id": "digital_health_chunk_003"
+      }
+    },
+    {
+      "vector_id": 3,
+      "chunk_id": "digital_health_chunk_003",
+      "content": "## 22To strengthen health systems by introducing digital technologies,\n\na key objective is to find ways to build capacity and create a\ndigitally-capable health workforce. Needs will vary from country to\ncountry, but they often include basic capacities, such as leadership\nand governance, and the development of a skilled health and\ntechnological workforce.\nPolicy options and actions\nThe following policy options and actions are proposed:\n- stimulate and support every country to adopt or review, own,\nand strengthen its national digital health strategy in a way that\nenhances the level of country maturity regarding digital health to\nachieve positive health outcomes in line with the national health\nplans, updated norms and standards recommendations, and\nuniversal health coverage;\n- ensure that institutions, decision-makers and personnel\ninvolved in the provision of health care services and all enduser communities and beneficiary populations are adequately\nengaged in the design and development phases;\n- facilitate a systematic engagement of all relevant stakeholders in\nthe realization of the vision and its strategic objectives as part of\nan integrated digital health ecosystem at the national level;\n- define a national digital health architecture blueprint or road\nmap, adopt open-source health data standards and aim for\nreusable systems or assets including interoperability of health\ninformation systems both at national and international levels in\norder to establish an innovative integration of different digital\ntechnologies using shared services, ensuring data are of good\nand comparable quality;\n- adopt legal and ethical frameworks for assuring patient safety,\ndata security, appropriate use and ownership of health data,\nprivacy data recoverability, as well as protection of intellectual\nproperty rights;\n- identify and promote sustainable financing models in\nsupport of digital health development and sharing of learning\nto inform future products and services. This is especially\nimportant in artificial intelligence including machine learning,\nimplementation, integration and maintenance, including\neconomic incentives; and\n- design, implement and monitor a change management plan, to\nsupport conducive organizational behaviour surrounding newly\ndigitized health processes and practices.\nOutputs\nThe following outputs are envisaged:\n- a national digital health strategy or equivalent strategic\nframework exists, is integrated in the national health strategy\nand is actively used to guide development and accelerate\nprogress towards the health-related targets of the Sustainable\nDevelopment Goals and in the context of digital transformation of\nhealth systems; and\n- a dynamic digital health maturity model assessment to guide\nprioritization of national investment in digital health is made in\nsupport of primary health care and universal health coverage.\nStrengthen governance for digital health at global, regional and\nnational levels\nThis strategic objective focuses on strengthening the governance of\ndigital health at national and international levels through the creation\nof sustainable and robust governance structures and building the\ncapacity for digital health at global and national levels. Governance\nfor digital health aims to strengthen the capabilities and skills\nneeded for countries to promote, innovate and scale up digital\nhealth technologies.\nThe strategic objective promotes standards for safety, security,\nprivacy, interoperability, and the ethical use of data within and\noutside the health sector. Actions to strengthen governance Digital health governance",
+      "section_path": [
+        "Strategic Objectives",
+        "24should include defining principles and reaching cross-sectoral and"
+      ],
+      "metadata": {
+        "chunk_index": 3,
+        "char_count": 3600,
+        "token_estimate": 626,
+        "word_count": 511,
+        "has_header": true,
+        "header_text": "22To strengthen health systems by introducing digital technologies,",
+        "header_level": 3,
+        "parent_sections": [
+          "Strategic Objectives"
+        ],
+        "contains_list": true,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 6,
+        "prev_chunk_id": "digital_health_chunk_002",
+        "next_chunk_id": "digital_health_chunk_004"
+      }
+    },
+    {
+      "vector_id": 4,
+      "chunk_id": "digital_health_chunk_004",
+      "content": "## 24should include defining principles and reaching cross-sectoral and\n\ninternational agreements for data sharing, quality and accuracy\nof health data and prioritization of investment plans and policy. It\nshould also include principles for the ethical use of health data in\ntechnologies such as artificial intelligence and big data analytics.\nIt also aims to improve measurement and monitoring of and research\non the application of digital health in the health sector. The research\nagenda should meet the need to improve and disseminate evidence\nand information on the use of digital health at all levels. Research on\nand evaluation of digital health outcomes and impact are essential\nto support its safe implementation, to establish and promote\naccountability and to justify the financial investment. The agenda\nshould also address the need to stimulate the development and\ntesting of technologies, methods and infrastructures that overcome\nobstacles to the application of digital health to health priorities. This\nagenda is closely linked to capacity-building of research teams and\nthe improvement and sharing of methods and data analytics.\nPolicy options and actions\nThe following policy options and actions are proposed:\n- strengthen governance of digital health at national and\ninternational levels by leveraging existing structures and as\nappropriate creating sustainable and robust governance\nstructures, including regulatory frameworks, and the capacity for\nthe implementation of evidence-based and proven digital health\nsolutions at global and national levels;\n- coordinate investments in evidence-based approaches to\nassess promote and disseminate new and innovative health\ntechnologies for national scaled digital health programmes using\na person-centred approach to facilitate actions and investments\nbased on informed decisions;\n- promote and facilitate digital health competencies in the\neducation and training curricula of all health professionals and\nallied workers; and 254) promote capacity-building for leaders of public health\nauthorities, affiliated agencies and policy-makers to take\ninformed decisions to support digital health investments.\nOutputs\nThe following outputs are envisaged:\n- governance exists, in accordance with Secretariat-led\ndevelopment of regulatory framework, to agree on global\nappropriate use of health data and on concepts such as health\ndata as a global public good and to outline principles of equitable\ndata-sharing principles for research, consistent metadata and\ndefinitions, artificial intelligence and data analytics, and primary\nand secondary use of data;\n- a voluntary guideline on global interoperability standards for\ndigital health is developed in collaboration with stakeholders\nand adopted, that a) tries to build upon results already broadly\nachieved, b) includes a list of commonly agreed use cases for the\npublic health care sector, its functional requirements and a set\nof functional and technical specifications, standards, semantics\nand profiles derived thereof, c) defines requirements for a sound\nlegal and regulatory framework with clearly defined roles for data\ngovernance and d) encompasses political leadership regarding\npublic investment, procurement and standardization to create\nan interoperable digital health ecosystem at the national and\ninternational levels;\n- global guidance on planning, development and use of digital\nhospitals, digital clinical trials and digital therapeutics is\ndeveloped; and\n- a set of recommendations is developed for pseudonymization\nand anonymization of health data.26Advocate people-centred health systems that are enabled by\ndigital health\nThis strategic objective advances digital health literacy, gender\nequality and women’ s empowerment and inclusive approaches to\nadoption and management of digital health technologies.\nThe strategic objective places people at the centre of digital health\nthrough the adoption and use of digital health technologies in scaling\nup and strengthening health service delivery. The individual is an\nessential component in the delivery of trust-based, people-centred\ncare. This focus covers not only patients, families and communities\nbut also the health workers who need to be prepared to deploy or\nuse digital health technologies in their work. Planning for capacitybuilding includes workforce assessment, ranging from professionals\nin information and communication technologies to health workers\nproviding care services. Being intrinsically multidisciplinary and\ninterdisciplinary, capacity-building entails instilling capabilities,\nattitudes and skills which may range from computer sciences,\nstrategic planning, finance and management to health sciences\nand care delivery, depending on the digital health application and\nits context. Assessment of the workforce should also consider the\nimplications for the health labour market of introducing digital\ntechnologies and their management. This objective would call for\ncountries to move away from the current disease focused systems to\nan integrated approach with the patient at the centre.\nAttitudes to, practices in and public awareness of digital health\nshould also be addressed. Possible actions include improving digital\nhealth literacy at the population level, engagement of patients,\nfamilies and communities, and education of patients about health.\nBetter responding to the social and commercial determinants of\nhealth to improve digital health-enabled health systems will need the\nengagement of civil society but also non-health sectors and actors.\nIncreasing awareness of evidence based self-management tools and\nincreasing access to these is a further action to consider.Human-centre d health systems",
+      "section_path": [
+        "Strategic Objectives",
+        "27Policy options and actions"
+      ],
+      "metadata": {
+        "chunk_index": 4,
+        "char_count": 5704,
+        "token_estimate": 1021,
+        "word_count": 800,
+        "has_header": true,
+        "header_text": "24should include defining principles and reaching cross-sectoral and",
+        "header_level": 3,
+        "parent_sections": [
+          "Strategic Objectives"
+        ],
+        "contains_list": true,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 6,
+        "prev_chunk_id": "digital_health_chunk_003",
+        "next_chunk_id": "digital_health_chunk_005"
+      }
+    },
+    {
+      "vector_id": 5,
+      "chunk_id": "digital_health_chunk_005",
+      "content": "## 27Policy options and actions\n\nThe following policy options and actions are proposed:\n- place people at the centre of digital health through the\nappropriate health data ownership, adoption and use of digital\nhealth technologies and development of appropriate literacy; the\nfocus will cover not only patients, families and communities but\nalso health workers;\n- develop approaches to the management of health at the\npopulation level through digital health applications that move\nhealth and well-being from reactive-care models to active\ncommunity-based models, and reduce the burden of data\ncollection from front-line workers by reorienting reporting-based\ntools into service delivery tools;\n- establish monitoring and evaluation models to facilitate\nmonitoring the contribution of digital systems to health system\nprocesses, health workforce processes, and individual and\ncommunity health needs;\n- strengthen gender equality and health equity approaches and\naccessibility for people with disabilities to promote inclusive\ndigital society with enhanced digital health skills. When planning\nand prioritizing digital health interventions, relevant factors\nof inequality should be assessed in order to ensure that the\nintroduction of digital health technologies does not aggravate\nthese ( “do no harm” ) and that access for specific population\ngroups is guaranteed. In addition, the specific potential of digital\ntechnologies to promote health equity should be leveraged.\nDesigned properly, digital solutions can propel inclusiveness as\ndigital connectivity can transcend physical barriers;\n- implement mechanisms for more effective public participation\nand transparency in national and international digital health\ndecision-making processes, such as through international\nconsultation processes or a stakeholder forum;\n- develop digital health training or Massive Open Online Courses to\nimprove digital health literacy; and",
+      "section_path": [
+        "Strategic Objectives",
+        "27Policy options and actions"
+      ],
+      "metadata": {
+        "chunk_index": 5,
+        "char_count": 1922,
+        "token_estimate": 337,
+        "word_count": 267,
+        "has_header": true,
+        "header_text": "27Policy options and actions",
+        "header_level": 3,
+        "parent_sections": [
+          "Strategic Objectives"
+        ],
+        "contains_list": true,
+        "contains_numbered_list": false,
+        "contains_quote": false,
+        "contains_code": false,
+        "embedding_ready": true,
+        "total_chunks_in_doc": 6,
+        "prev_chunk_id": "digital_health_chunk_004",
+        "next_chunk_id": null
+      }
+    }
+  ]
+}

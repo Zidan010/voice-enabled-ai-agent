@@ -1,0 +1,98 @@
+Document: Digital_Health
+Section: Strategic Objectives > 27Policy options and actions
+Tokens: 1021
+--------------------------------------------------------------------------------
+
+## 24should include defining principles and reaching cross-sectoral and
+
+international agreements for data sharing, quality and accuracy
+of health data and prioritization of investment plans and policy. It
+should also include principles for the ethical use of health data in
+technologies such as artificial intelligence and big data analytics.
+It also aims to improve measurement and monitoring of and research
+on the application of digital health in the health sector. The research
+agenda should meet the need to improve and disseminate evidence
+and information on the use of digital health at all levels. Research on
+and evaluation of digital health outcomes and impact are essential
+to support its safe implementation, to establish and promote
+accountability and to justify the financial investment. The agenda
+should also address the need to stimulate the development and
+testing of technologies, methods and infrastructures that overcome
+obstacles to the application of digital health to health priorities. This
+agenda is closely linked to capacity-building of research teams and
+the improvement and sharing of methods and data analytics.
+Policy options and actions
+The following policy options and actions are proposed:
+- strengthen governance of digital health at national and
+international levels by leveraging existing structures and as
+appropriate creating sustainable and robust governance
+structures, including regulatory frameworks, and the capacity for
+the implementation of evidence-based and proven digital health
+solutions at global and national levels;
+- coordinate investments in evidence-based approaches to
+assess promote and disseminate new and innovative health
+technologies for national scaled digital health programmes using
+a person-centred approach to facilitate actions and investments
+based on informed decisions;
+- promote and facilitate digital health competencies in the
+education and training curricula of all health professionals and
+allied workers; and 254) promote capacity-building for leaders of public health
+authorities, affiliated agencies and policy-makers to take
+informed decisions to support digital health investments.
+Outputs
+The following outputs are envisaged:
+- governance exists, in accordance with Secretariat-led
+development of regulatory framework, to agree on global
+appropriate use of health data and on concepts such as health
+data as a global public good and to outline principles of equitable
+data-sharing principles for research, consistent metadata and
+definitions, artificial intelligence and data analytics, and primary
+and secondary use of data;
+- a voluntary guideline on global interoperability standards for
+digital health is developed in collaboration with stakeholders
+and adopted, that a) tries to build upon results already broadly
+achieved, b) includes a list of commonly agreed use cases for the
+public health care sector, its functional requirements and a set
+of functional and technical specifications, standards, semantics
+and profiles derived thereof, c) defines requirements for a sound
+legal and regulatory framework with clearly defined roles for data
+governance and d) encompasses political leadership regarding
+public investment, procurement and standardization to create
+an interoperable digital health ecosystem at the national and
+international levels;
+- global guidance on planning, development and use of digital
+hospitals, digital clinical trials and digital therapeutics is
+developed; and
+- a set of recommendations is developed for pseudonymization
+and anonymization of health data.26Advocate people-centred health systems that are enabled by
+digital health
+This strategic objective advances digital health literacy, gender
+equality and women’ s empowerment and inclusive approaches to
+adoption and management of digital health technologies.
+The strategic objective places people at the centre of digital health
+through the adoption and use of digital health technologies in scaling
+up and strengthening health service delivery. The individual is an
+essential component in the delivery of trust-based, people-centred
+care. This focus covers not only patients, families and communities
+but also the health workers who need to be prepared to deploy or
+use digital health technologies in their work. Planning for capacitybuilding includes workforce assessment, ranging from professionals
+in information and communication technologies to health workers
+providing care services. Being intrinsically multidisciplinary and
+interdisciplinary, capacity-building entails instilling capabilities,
+attitudes and skills which may range from computer sciences,
+strategic planning, finance and management to health sciences
+and care delivery, depending on the digital health application and
+its context. Assessment of the workforce should also consider the
+implications for the health labour market of introducing digital
+technologies and their management. This objective would call for
+countries to move away from the current disease focused systems to
+an integrated approach with the patient at the centre.
+Attitudes to, practices in and public awareness of digital health
+should also be addressed. Possible actions include improving digital
+health literacy at the population level, engagement of patients,
+families and communities, and education of patients about health.
+Better responding to the social and commercial determinants of
+health to improve digital health-enabled health systems will need the
+engagement of civil society but also non-health sectors and actors.
+Increasing awareness of evidence based self-management tools and
+increasing access to these is a further action to consider.Human-centre d health systems

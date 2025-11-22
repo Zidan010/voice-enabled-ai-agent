@@ -1,0 +1,76 @@
+Document: Digital_Health
+Section: Strategic Objectives
+Tokens: 799
+--------------------------------------------------------------------------------
+
+## Guiding Principles
+
+The four guiding principles aim to orient the global strategy towards the
+appropriate and sustainable adoption of digital health technologies within
+the context of national health sector and health strategies.16Promote the appropriate use of digital technologies for health
+The global strategy promotes the appropriate use of digital
+technologies as digital public goods which are adaptable to different
+countries and contexts to help address key health system challenges
+to support equity in access to digital resources so that no one is
+left behind. It promotes the protection of people, populations,
+health care professionals and systems against misinformation and
+the misuse of information, malicious cyber activities, fraud and
+exploitation, inappropriate use of health data, racism and human
+rights violations within the framework established by international
+treaties binding the Member States.
+The “digital determinants of health” , such as literacy in information
+and communication technologies and access to equipment,
+broadband and the internet, become more important as digital
+health becomes more prevalent. The global strategy underscores the
+need to ground digital foundations within national strategies and
+emphasizes the need to work with different sectors and stakeholders
+at all levels.
+The global strategy promotes syntactic and semantic interoperability
+with WHO norms and standards as a cornerstone of health
+information to enable sharing of information in a connected world.
+The appropriate use of digital health takes the following dimensions
+into consideration: health promotion and disease prevention, patient
+safety, ethics, interoperability, intellectual property, data security
+(confidentiality, integrity, and availability), privacy, cost-effectiveness,
+patient engagement, and affordability. It should be people-centred,
+trust-based, evidence-based, effective, efficient, sustainable,
+inclusive, equitable and contextualized. The growing global challenge
+of digital waste on health and the environment must also be
+appropriately managed.3
+17Recognize the urgent need to address the major impediments
+faced by least-developed countries implementing digital
+health technologies
+There is a pressing need to invest in efforts to overcome the major
+impediments that developing countries face in engaging with and
+accessing new digital health technologies, such as an appropriate
+enabling environment, sufficient resources, infrastructure to support
+the digital transformation, education, human capacity, financial
+investment and internet connectivity, as well as issues related to
+legacy infrastructure, technology ownership, privacy, security, and
+adapting and implementing global standards and technology flows.4
+knowledge on digital health
+This strategic objective aims to align countries and stakeholders to
+collectively act upon global opportunities to improve health and
+work towards universal health coverage, while meeting challenges,
+identifying and communicating risks, and focusing on threats
+associated with the use of digital technologies both to improve health
+and to enable universal health coverage, the core of the healthrelated Sustainable Development Goals. This objective encourages
+action on common opportunities and challenges that are relevant to
+all countries and stakeholders, regardless of their situation.
+Maximize the impact of both new and existing collaborations and
+partnerships in the wider digital health ecosystem. Knowledge of and
+investments in digital health design and implementation are shared
+across domains; hence this strategic objective aims to maximize
+collaborations and partnerships with other agencies within the
+United Nations system, countries and other stakeholders and to help
+to build new ones.
+Assess and promote the latest, appropriate and innovative health
+technologies. Pioneering health technologies are creating new and
+advanced health care services and solutions. This sub-objective
+helps to ensure that the quality and outcome of the new health
+technologies are assessed in order to enable their timely adoption
+and promotion. Norms, standards, policies and regulations are
+needed to ensure the investment, sustainability, quality, security
+and safety of both digital health products and cutting-edge health
+technologies that not only are used in health care but that may also
+be directly marketed to individuals. Global guidance, coordination
