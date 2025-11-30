@@ -5,6 +5,15 @@ tqdm
 tiktoken
 pypdf2
 langchain-groq
-yfinance
 python-dotenv
 langchain
+groq
+deepgram-sdk
+pandas
+numpy
+tabulate
+soundfile
+requests
+tavily-python
+playsound
+simpleaudio
